@@ -1,0 +1,1 @@
+import{u as e}from"./tekst-CSPZFQnn.js";document.getElementById(`metode`).innerHTML=e;

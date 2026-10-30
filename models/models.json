@@ -1,0 +1,310 @@
+[
+ {
+  "id": "earthworm-deep",
+  "file": "earthworm-deep.glb",
+  "name": "Common earthworm (deep-burrowing, nightcrawler)",
+  "species": "Lumbricus terrestris",
+  "gbif_dk_records": 59,
+  "length_mm": 150,
+  "length_range_mm": [
+   110,
+   200
+  ],
+  "length_kind": "typical adult",
+  "unit_mm": 150,
+  "length_source": "https://en.wikipedia.org/wiki/Lumbricus_terrestris",
+  "notes": "110-200 mm, 7-10 mm across; reaches 20-25 cm stretched out.",
+  "roughness_hint": 0.3,
+  "verts": 6018,
+  "faces": 6032
+ },
+ {
+  "id": "earthworm-topsoil",
+  "file": "earthworm-topsoil.glb",
+  "name": "Grey worm (topsoil earthworm)",
+  "species": "Aporrectodea caliginosa",
+  "gbif_dk_records": 37,
+  "length_mm": 100,
+  "length_range_mm": [
+   55,
+   170
+  ],
+  "length_kind": "midpoint of the range, rounded",
+  "unit_mm": 100,
+  "length_source": "https://fw-oligochaeta.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=94614",
+  "notes": "Length 55-170 mm, 4-7 mm across.",
+  "roughness_hint": 0.32,
+  "verts": 5618,
+  "faces": 5632
+ },
+ {
+  "id": "earthworm-surface",
+  "file": "earthworm-surface.glb",
+  "name": "Red litter worm (surface earthworm)",
+  "species": "Lumbricus rubellus",
+  "gbif_dk_records": 60,
+  "length_mm": 65,
+  "length_range_mm": null,
+  "length_kind": "typical adult",
+  "unit_mm": 65,
+  "length_source": "https://www.naturespot.org/species/redhead-worm",
+  "notes": "NatureSpot gives 6.5 cm as the typical adult size.",
+  "roughness_hint": 0.3,
+  "verts": 4818,
+  "faces": 4832
+ },
+ {
+  "id": "potworm",
+  "file": "potworm.glb",
+  "name": "Potworm (enchytraeid)",
+  "species": "Enchytraeus buchholzi",
+  "gbif_dk_records": 85,
+  "length_mm": 7.5,
+  "length_range_mm": [
+   5,
+   10
+  ],
+  "length_kind": "midpoint of the range",
+  "unit_mm": 7.5,
+  "length_source": "https://fw-oligochaeta.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=94554",
+  "notes": "5-10 mm, 22-40 segments. Bristles are drawn larger than life.",
+  "roughness_hint": 0.4,
+  "verts": 3826,
+  "faces": 3840
+ },
+ {
+  "id": "nematode",
+  "file": "nematode.glb",
+  "name": "Soil roundworm (nematode)",
+  "species": "Plectus parvus",
+  "gbif_dk_records": 3,
+  "length_mm": 0.45,
+  "length_range_mm": [
+   0.39,
+   0.5
+  ],
+  "length_kind": "adult females, five specimens",
+  "unit_mm": 0.45,
+  "length_source": "https://zenodo.org/record/8152872",
+  "notes": "Only 3 Danish GBIF records for the species, 55 for the genus Plectus.",
+  "roughness_hint": 0.12,
+  "verts": 2898,
+  "faces": 2908
+ },
+ {
+  "id": "springtail",
+  "file": "springtail.glb",
+  "name": "Springtail",
+  "species": "Isotoma viridis",
+  "gbif_dk_records": 90,
+  "length_mm": 3.5,
+  "length_range_mm": [
+   3,
+   4
+  ],
+  "length_kind": "range midpoint",
+  "unit_mm": 3.5,
+  "length_source": "https://www.commanster.eu/Commanster/Invertebrates/Collembola/Collembola/Isotoma.viridis.html",
+  "notes": "Antennae and the folded spring (furca) come on top of the body length.",
+  "roughness_hint": 0.4,
+  "verts": 5002,
+  "faces": 5087
+ },
+ {
+  "id": "mite",
+  "file": "mite.glb",
+  "name": "Beetle mite (oribatid mite)",
+  "species": "Euzetes globulus",
+  "gbif_dk_records": 4,
+  "length_mm": 1.1,
+  "length_range_mm": null,
+  "length_kind": "a little over 1 mm",
+  "unit_mm": 1.1,
+  "length_source": "https://zenodo.org/records/6263304",
+  "notes": "Described as the largest oribatid of its group in Germany, over 1 mm. Only 4 Danish GBIF records (2015 soil samples).",
+  "roughness_hint": 0.16,
+  "verts": 5186,
+  "faces": 5310
+ },
+ {
+  "id": "beetle",
+  "file": "beetle.glb",
+  "name": "Bronze ground beetle",
+  "species": "Carabus nemoralis",
+  "gbif_dk_records": 1939,
+  "length_mm": 24,
+  "length_range_mm": [
+   22,
+   26
+  ],
+  "length_kind": "range midpoint",
+  "unit_mm": 24,
+  "length_source": "https://www2.habitas.org.uk/beetles/species.php?item=7137",
+  "notes": "Mandibles stick out in front of the length measured.",
+  "roughness_hint": 0.22,
+  "verts": 7104,
+  "faces": 7302
+ },
+ {
+  "id": "beetle-larva",
+  "file": "beetle-larva.glb",
+  "name": "Wireworm (click beetle larva)",
+  "species": "Agriotes lineatus",
+  "gbif_dk_records": 57,
+  "length_mm": 27,
+  "length_range_mm": null,
+  "length_kind": "full-grown larva (maximum)",
+  "unit_mm": 27,
+  "length_source": "https://www.agroatlas.ru/en/content/pests/Agriotes_lineatus/index.html",
+  "notes": "Larvae reach 27 mm and 2 mm across.",
+  "roughness_hint": 0.3,
+  "verts": 4622,
+  "faces": 4688
+ },
+ {
+  "id": "ant",
+  "file": "ant.glb",
+  "name": "Black garden ant (worker)",
+  "species": "Lasius niger",
+  "gbif_dk_records": 2212,
+  "length_mm": 4.2,
+  "length_range_mm": [
+   3.4,
+   5
+  ],
+  "length_kind": "range midpoint",
+  "unit_mm": 4.2,
+  "length_source": "https://www.naturespot.org/species/small-black-ant",
+  "notes": "Worker length 3.4-5 mm.",
+  "roughness_hint": 0.24,
+  "verts": 5304,
+  "faces": 5462
+ },
+ {
+  "id": "woodlouse",
+  "file": "woodlouse.glb",
+  "name": "Rough woodlouse",
+  "species": "Porcellio scaber",
+  "gbif_dk_records": 1375,
+  "length_mm": 17,
+  "length_range_mm": null,
+  "length_kind": "maximum length (a typical adult is smaller)",
+  "unit_mm": 17,
+  "length_source": "https://www.naturespot.org/node/2092",
+  "notes": "NatureSpot: maximum length 17 mm. No source found for a typical length.",
+  "roughness_hint": 0.45,
+  "verts": 5708,
+  "faces": 6194
+ },
+ {
+  "id": "centipede",
+  "file": "centipede.glb",
+  "name": "Stone centipede",
+  "species": "Lithobius forficatus",
+  "gbif_dk_records": 182,
+  "length_mm": 24,
+  "length_range_mm": [
+   18,
+   30
+  ],
+  "length_kind": "range midpoint",
+  "unit_mm": 24,
+  "length_source": "https://en.wikipedia.org/wiki/Lithobius_forficatus",
+  "notes": "18-30 mm long, up to 4 mm broad.",
+  "roughness_hint": 0.3,
+  "verts": 6990,
+  "faces": 7552
+ },
+ {
+  "id": "millipede",
+  "file": "millipede.glb",
+  "name": "White-legged snake millipede",
+  "species": "Tachypodoiulus niger",
+  "gbif_dk_records": 2,
+  "length_mm": 50,
+  "length_range_mm": [
+   40,
+   60
+  ],
+  "length_kind": "midpoint of 'about 4 cm' and 'up to 6 cm'",
+  "unit_mm": 50,
+  "length_source": "https://kentwildlifetrust.org.uk/wildlife-explorer/invertebrates/crustacea-centipedes-and-millipedes/white-legged-snake-millipede",
+  "notes": "Wildlife Trusts: up to 6 cm; Strathspey Herald country diary: some 4 cm (https://www.strathspey-herald.co.uk/news/country-diary-having-more-than-1300-legs-is-quite-a-feat-e-346172/). Rarely recorded in Denmark (2 GBIF records).",
+  "roughness_hint": 0.2,
+  "verts": 8050,
+  "faces": 8418
+ },
+ {
+  "id": "fungus",
+  "file": "fungus.glb",
+  "name": "Butter cap (gilled mushroom) with its thread network",
+  "species": "Rhodocollybia butyracea",
+  "gbif_dk_records": 250,
+  "length_mm": 70,
+  "length_range_mm": [
+   40,
+   95
+  ],
+  "length_kind": "height of the mushroom above the soil (stem 3-8 cm plus about 1 cm of cap)",
+  "unit_mm": 70,
+  "length_source": "https://mushroomexpert.com/rhodocollybia_butyracea.html",
+  "notes": "Cap 2-6 cm across, stem 3-8 cm long and 1-2 cm thick. The thread network below z = 0 is not to scale.",
+  "roughness_hint": 0.65,
+  "verts": 8470,
+  "faces": 8672
+ },
+ {
+  "id": "fungus-threads",
+  "file": "fungus-threads.glb",
+  "name": "Fungal threads (hyphae, mycelium)",
+  "species": "Rhodocollybia butyracea (mycelium)",
+  "gbif_dk_records": 250,
+  "length_mm": 0.005,
+  "length_range_mm": [
+   0.004,
+   0.006
+  ],
+  "length_kind": "width of one thread (hypha)",
+  "unit_mm": 5,
+  "length_source": "https://en.wikipedia.org/wiki/Hypha",
+  "notes": "Hyphae average 4-6 micrometres across. Illustrative scale (assumption): 1 unit = 5 mm of network, with threads drawn about 17x thicker than true so they show.",
+  "roughness_hint": 0.6,
+  "verts": 22196,
+  "faces": 23348
+ },
+ {
+  "id": "bacteria",
+  "file": "bacteria.glb",
+  "name": "Soil bacteria (rods and spheres)",
+  "species": "Bacillus subtilis (rods) with Micrococcus (spheres)",
+  "gbif_dk_records": 47,
+  "length_mm": 0.005,
+  "length_range_mm": [
+   0.004,
+   0.01
+  ],
+  "length_kind": "length of one rod cell",
+  "unit_mm": 0.05,
+  "length_source": "https://en.wikipedia.org/wiki/Bacillus_subtilis",
+  "notes": "Rods 4-10 micrometres long and 0.25-1 micrometre across. Model rods are fatter than true (about 5:1 instead of 8:1). 1 unit = 0.05 mm, so the clump is about 45 micrometres across.",
+  "roughness_hint": 0.3,
+  "verts": 10278,
+  "faces": 10854
+ },
+ {
+  "id": "roots",
+  "file": "roots.glb",
+  "name": "Grass roots (fibrous root system)",
+  "species": "Lolium perenne",
+  "gbif_dk_records": 70452,
+  "length_mm": 760,
+  "length_range_mm": null,
+  "length_kind": "depth reached by the deepest roots in one field study",
+  "unit_mm": 760,
+  "length_source": "https://www.umces.edu/sites/default/files/Perennial-ryegrass-summary.pdf",
+  "notes": "Roots to 76 cm (mean 75 cm) in Brown et al. 2010, as summarised by UMCES. Most root mass sits in the top 10-15 cm. Root hairs drawn about 20x longer than true so they show.",
+  "roughness_hint": 0.7,
+  "verts": 20538,
+  "faces": 20993
+ }
+]

@@ -1,0 +1,3330 @@
+{
+ "regions": {
+  "West Jutland": {
+   "municipalities": [
+    "Billund",
+    "Esbjerg",
+    "Fanø",
+    "Herning",
+    "Holstebro",
+    "Ikast-Brande",
+    "Ringkøbing-Skjern",
+    "Tønder",
+    "Varde",
+    "Vejen"
+   ],
+   "n_municipalities": 10,
+   "land_km2": 8960.0
+  },
+  "East Jutland": {
+   "municipalities": [
+    "Aabenraa",
+    "Aarhus",
+    "Favrskov",
+    "Fredericia",
+    "Haderslev",
+    "Hedensted",
+    "Horsens",
+    "Kolding",
+    "Lemvig",
+    "Norddjurs",
+    "Odder",
+    "Randers",
+    "Silkeborg",
+    "Skanderborg",
+    "Skive",
+    "Struer",
+    "Syddjurs",
+    "Sønderborg",
+    "Vejle",
+    "Viborg"
+   ],
+   "n_municipalities": 20,
+   "land_km2": 12760.8
+  },
+  "North Jutland": {
+   "municipalities": [
+    "Aalborg",
+    "Brønderslev",
+    "Frederikshavn",
+    "Hjørring",
+    "Jammerbugt",
+    "Læsø",
+    "Mariagerfjord",
+    "Morsø",
+    "Rebild",
+    "Thisted",
+    "Vesthimmerlands"
+   ],
+   "n_municipalities": 11,
+   "land_km2": 7948.6
+  },
+  "Funen": {
+   "municipalities": [
+    "Assens",
+    "Faaborg-Midtfyn",
+    "Kerteminde",
+    "Langeland",
+    "Middelfart",
+    "Nordfyns",
+    "Nyborg",
+    "Odense",
+    "Svendborg",
+    "Ærø"
+   ],
+   "n_municipalities": 10,
+   "land_km2": 3503.7
+  },
+  "Zealand": {
+   "municipalities": [
+    "Albertslund",
+    "Allerød",
+    "Ballerup",
+    "Brøndby",
+    "Dragør",
+    "Egedal",
+    "Faxe",
+    "Fredensborg",
+    "Frederiksberg",
+    "Frederikssund",
+    "Furesø",
+    "Gentofte",
+    "Gladsaxe",
+    "Glostrup",
+    "Greve",
+    "Gribskov",
+    "Halsnæs",
+    "Helsingør",
+    "Herlev",
+    "Hillerød",
+    "Holbæk",
+    "Hvidovre",
+    "Høje-Taastrup",
+    "Hørsholm",
+    "Ishøj",
+    "Kalundborg",
+    "København",
+    "Køge",
+    "Lejre",
+    "Lyngby-Taarbæk",
+    "Næstved",
+    "Odsherred",
+    "Ringsted",
+    "Roskilde",
+    "Rudersdal",
+    "Rødovre",
+    "Samsø",
+    "Slagelse",
+    "Solrød",
+    "Sorø",
+    "Stevns",
+    "Tårnby",
+    "Vallensbæk",
+    "Vordingborg"
+   ],
+   "n_municipalities": 44,
+   "land_km2": 7624.8
+  },
+  "Lolland-Falster": {
+   "municipalities": [
+    "Guldborgsund",
+    "Lolland"
+   ],
+   "n_municipalities": 2,
+   "land_km2": 1813.8
+  },
+  "Bornholm": {
+   "municipalities": [
+    "Bornholm",
+    "Christiansø"
+   ],
+   "n_municipalities": 2,
+   "land_km2": 592.5
+  },
+  "Denmark": {
+   "n_municipalities": 99,
+   "land_km2": 43204.1
+  }
+ },
+ "jb": {
+  "definition": "sand = JB 1-4, clay = JB 5-8, humus = JB 11; shares are of the JB-mapped area (farmland map, not all land)",
+  "by_region": {
+   "West Jutland": {
+    "land_km2": 8960.0,
+    "mapped_km2": 7629.9,
+    "mapped_pct_of_land": 85.2,
+    "sand_pct": 89.6,
+    "clay_pct": 5.1,
+    "humus_pct": 5.3,
+    "class_km2": {
+     "JB1 Coarse sand": 1859.5,
+     "JB2 Fine sand": 115.1,
+     "JB3 Coarse clayey sand": 3359.7,
+     "JB4 Fine clayey sand": 1501.3,
+     "JB5 Coarse sandy clay": 90.2,
+     "JB6 Fine sandy clay": 139.2,
+     "JB7 Clay": 111.6,
+     "JB8 Heavy clay": 49.2,
+     "JB11 Humus": 403.9
+    }
+   },
+   "East Jutland": {
+    "land_km2": 12760.8,
+    "mapped_km2": 10381.8,
+    "mapped_pct_of_land": 81.4,
+    "sand_pct": 51.5,
+    "clay_pct": 43.5,
+    "humus_pct": 4.9,
+    "class_km2": {
+     "JB1 Coarse sand": 301.8,
+     "JB2 Fine sand": 1.2,
+     "JB3 Coarse clayey sand": 2813.7,
+     "JB4 Fine clayey sand": 2233.1,
+     "JB5 Coarse sandy clay": 482.6,
+     "JB6 Fine sandy clay": 3435.5,
+     "JB7 Clay": 601.0,
+     "JB8 Heavy clay": 1.1,
+     "JB11 Humus": 511.8
+    }
+   },
+   "North Jutland": {
+    "land_km2": 7948.6,
+    "mapped_km2": 6618.4,
+    "mapped_pct_of_land": 83.3,
+    "sand_pct": 77.9,
+    "clay_pct": 13.9,
+    "humus_pct": 8.2,
+    "class_km2": {
+     "JB1 Coarse sand": 114.0,
+     "JB2 Fine sand": 219.8,
+     "JB3 Coarse clayey sand": 272.1,
+     "JB4 Fine clayey sand": 4549.5,
+     "JB5 Coarse sandy clay": 36.2,
+     "JB6 Fine sandy clay": 787.5,
+     "JB7 Clay": 93.8,
+     "JB8 Heavy clay": 0.0,
+     "JB11 Humus": 545.5
+    }
+   },
+   "Funen": {
+    "land_km2": 3503.7,
+    "mapped_km2": 2758.6,
+    "mapped_pct_of_land": 78.7,
+    "sand_pct": 13.8,
+    "clay_pct": 83.0,
+    "humus_pct": 3.1,
+    "class_km2": {
+     "JB1 Coarse sand": 0.0,
+     "JB2 Fine sand": 0.1,
+     "JB3 Coarse clayey sand": 130.2,
+     "JB4 Fine clayey sand": 251.1,
+     "JB5 Coarse sandy clay": 101.2,
+     "JB6 Fine sandy clay": 2117.9,
+     "JB7 Clay": 71.2,
+     "JB8 Heavy clay": 0.0,
+     "JB11 Humus": 86.8
+    }
+   },
+   "Zealand": {
+    "land_km2": 7624.8,
+    "mapped_km2": 5538.2,
+    "mapped_pct_of_land": 72.6,
+    "sand_pct": 10.0,
+    "clay_pct": 84.5,
+    "humus_pct": 5.5,
+    "class_km2": {
+     "JB1 Coarse sand": 0.0,
+     "JB2 Fine sand": 0.0,
+     "JB3 Coarse clayey sand": 24.4,
+     "JB4 Fine clayey sand": 527.4,
+     "JB5 Coarse sandy clay": 23.3,
+     "JB6 Fine sandy clay": 4325.1,
+     "JB7 Clay": 331.7,
+     "JB8 Heavy clay": 0.0,
+     "JB11 Humus": 306.3
+    }
+   },
+   "Lolland-Falster": {
+    "land_km2": 1813.8,
+    "mapped_km2": 1536.2,
+    "mapped_pct_of_land": 84.7,
+    "sand_pct": 2.0,
+    "clay_pct": 94.9,
+    "humus_pct": 3.1,
+    "class_km2": {
+     "JB1 Coarse sand": 1.1,
+     "JB2 Fine sand": 2.0,
+     "JB3 Coarse clayey sand": 0.2,
+     "JB4 Fine clayey sand": 27.2,
+     "JB5 Coarse sandy clay": 1.7,
+     "JB6 Fine sandy clay": 899.8,
+     "JB7 Clay": 556.0,
+     "JB8 Heavy clay": 0.0,
+     "JB11 Humus": 48.1
+    }
+   },
+   "Bornholm": {
+    "land_km2": 592.5,
+    "mapped_km2": 495.8,
+    "mapped_pct_of_land": 83.7,
+    "sand_pct": 4.4,
+    "clay_pct": 95.4,
+    "humus_pct": 0.2,
+    "class_km2": {
+     "JB1 Coarse sand": 0.0,
+     "JB2 Fine sand": 0.0,
+     "JB3 Coarse clayey sand": 21.7,
+     "JB4 Fine clayey sand": 0.2,
+     "JB5 Coarse sandy clay": 219.2,
+     "JB6 Fine sandy clay": 93.1,
+     "JB7 Clay": 160.8,
+     "JB8 Heavy clay": 0.0,
+     "JB11 Humus": 0.8
+    }
+   },
+   "Denmark": {
+    "land_km2": 43204.1,
+    "mapped_km2": 34958.8,
+    "mapped_pct_of_land": 80.9,
+    "sand_pct": 52.4,
+    "clay_pct": 42.1,
+    "humus_pct": 5.4,
+    "class_km2": {
+     "JB1 Coarse sand": 2276.4,
+     "JB2 Fine sand": 338.2,
+     "JB3 Coarse clayey sand": 6622.1,
+     "JB4 Fine clayey sand": 9089.8,
+     "JB5 Coarse sandy clay": 954.4,
+     "JB6 Fine sandy clay": 11798.1,
+     "JB7 Clay": 1926.1,
+     "JB8 Heavy clay": 50.4,
+     "JB11 Humus": 1903.3
+    }
+   }
+  },
+  "ranking_rule": "only municipalities with at least 50 km2 of JB-mapped area (75 of 99 qualify); the rest are small or built-up and the JB map covers little of them",
+  "sandiest_municipalities": [
+   {
+    "name": "Læsø",
+    "region": "North Jutland",
+    "land_km2": 119.6,
+    "mapped_km2": 99.6,
+    "mapped_pct_of_land": 83.3,
+    "sand_pct": 97.7,
+    "clay_pct": 0.5,
+    "humus_pct": 1.7
+   },
+   {
+    "name": "Billund",
+    "region": "West Jutland",
+    "land_km2": 540.9,
+    "mapped_km2": 469.1,
+    "mapped_pct_of_land": 86.7,
+    "sand_pct": 95.8,
+    "clay_pct": 0.0,
+    "humus_pct": 4.2
+   },
+   {
+    "name": "Ikast-Brande",
+    "region": "West Jutland",
+    "land_km2": 735.0,
+    "mapped_km2": 624.0,
+    "mapped_pct_of_land": 84.9,
+    "sand_pct": 95.7,
+    "clay_pct": 0.2,
+    "humus_pct": 4.1
+   },
+   {
+    "name": "Herning",
+    "region": "West Jutland",
+    "land_km2": 1322.7,
+    "mapped_km2": 1128.9,
+    "mapped_pct_of_land": 85.4,
+    "sand_pct": 94.9,
+    "clay_pct": 0.1,
+    "humus_pct": 5.0
+   },
+   {
+    "name": "Varde",
+    "region": "West Jutland",
+    "land_km2": 1237.7,
+    "mapped_km2": 1065.4,
+    "mapped_pct_of_land": 86.1,
+    "sand_pct": 93.5,
+    "clay_pct": 1.4,
+    "humus_pct": 5.1
+   }
+  ],
+  "clayiest_municipalities": [
+   {
+    "name": "Stevns",
+    "region": "Zealand",
+    "land_km2": 251.8,
+    "mapped_km2": 211.0,
+    "mapped_pct_of_land": 83.8,
+    "sand_pct": 0.1,
+    "clay_pct": 97.7,
+    "humus_pct": 2.2
+   },
+   {
+    "name": "Køge",
+    "region": "Zealand",
+    "land_km2": 256.8,
+    "mapped_km2": 195.5,
+    "mapped_pct_of_land": 76.1,
+    "sand_pct": 1.2,
+    "clay_pct": 96.2,
+    "humus_pct": 2.6
+   },
+   {
+    "name": "Svendborg",
+    "region": "Funen",
+    "land_km2": 417.8,
+    "mapped_km2": 331.5,
+    "mapped_pct_of_land": 79.3,
+    "sand_pct": 2.8,
+    "clay_pct": 95.8,
+    "humus_pct": 1.4
+   },
+   {
+    "name": "Lolland",
+    "region": "Lolland-Falster",
+    "land_km2": 902.3,
+    "mapped_km2": 771.3,
+    "mapped_pct_of_land": 85.5,
+    "sand_pct": 2.2,
+    "clay_pct": 95.7,
+    "humus_pct": 2.1
+   },
+   {
+    "name": "Bornholm",
+    "region": "Bornholm",
+    "land_km2": 592.1,
+    "mapped_km2": 495.6,
+    "mapped_pct_of_land": 83.7,
+    "sand_pct": 4.4,
+    "clay_pct": 95.4,
+    "humus_pct": 0.2
+   }
+  ]
+ },
+ "municipalities": [
+  {
+   "name": "Aabenraa",
+   "region": "East Jutland",
+   "land_km2": 940.7,
+   "mapped_km2": 791.3,
+   "mapped_pct_of_land": 84.1,
+   "sand_pct": 72.7,
+   "clay_pct": 19.9,
+   "humus_pct": 7.5
+  },
+  {
+   "name": "Aalborg",
+   "region": "North Jutland",
+   "land_km2": 1141.5,
+   "mapped_km2": 899.1,
+   "mapped_pct_of_land": 78.8,
+   "sand_pct": 78.5,
+   "clay_pct": 6.4,
+   "humus_pct": 15.1
+  },
+  {
+   "name": "Aarhus",
+   "region": "East Jutland",
+   "land_km2": 473.9,
+   "mapped_km2": 292.4,
+   "mapped_pct_of_land": 61.7,
+   "sand_pct": 6.1,
+   "clay_pct": 91.2,
+   "humus_pct": 2.8
+  },
+  {
+   "name": "Albertslund",
+   "region": "Zealand",
+   "land_km2": 23.5,
+   "mapped_km2": 11.2,
+   "mapped_pct_of_land": 47.7,
+   "sand_pct": 0.0,
+   "clay_pct": 93.6,
+   "humus_pct": 6.4
+  },
+  {
+   "name": "Allerød",
+   "region": "Zealand",
+   "land_km2": 67.7,
+   "mapped_km2": 41.6,
+   "mapped_pct_of_land": 61.4,
+   "sand_pct": 8.8,
+   "clay_pct": 82.4,
+   "humus_pct": 8.8
+  },
+  {
+   "name": "Assens",
+   "region": "Funen",
+   "land_km2": 513.7,
+   "mapped_km2": 420.2,
+   "mapped_pct_of_land": 81.8,
+   "sand_pct": 20.2,
+   "clay_pct": 76.6,
+   "humus_pct": 3.1
+  },
+  {
+   "name": "Ballerup",
+   "region": "Zealand",
+   "land_km2": 34.0,
+   "mapped_km2": 8.4,
+   "mapped_pct_of_land": 24.8,
+   "sand_pct": 0.2,
+   "clay_pct": 89.0,
+   "humus_pct": 10.8
+  },
+  {
+   "name": "Billund",
+   "region": "West Jutland",
+   "land_km2": 540.9,
+   "mapped_km2": 469.1,
+   "mapped_pct_of_land": 86.7,
+   "sand_pct": 95.8,
+   "clay_pct": 0.0,
+   "humus_pct": 4.2
+  },
+  {
+   "name": "Bornholm",
+   "region": "Bornholm",
+   "land_km2": 592.1,
+   "mapped_km2": 495.6,
+   "mapped_pct_of_land": 83.7,
+   "sand_pct": 4.4,
+   "clay_pct": 95.4,
+   "humus_pct": 0.2
+  },
+  {
+   "name": "Brøndby",
+   "region": "Zealand",
+   "land_km2": 21.2,
+   "mapped_km2": 3.5,
+   "mapped_pct_of_land": 16.4,
+   "sand_pct": 0.0,
+   "clay_pct": 98.1,
+   "humus_pct": 1.9
+  },
+  {
+   "name": "Brønderslev",
+   "region": "North Jutland",
+   "land_km2": 633.3,
+   "mapped_km2": 543.4,
+   "mapped_pct_of_land": 85.8,
+   "sand_pct": 84.6,
+   "clay_pct": 4.3,
+   "humus_pct": 11.1
+  },
+  {
+   "name": "Christiansø",
+   "region": "Bornholm",
+   "land_km2": 0.4,
+   "mapped_km2": 0.2,
+   "mapped_pct_of_land": 43.3,
+   "sand_pct": 0.0,
+   "clay_pct": 100.0,
+   "humus_pct": 0.0
+  },
+  {
+   "name": "Dragør",
+   "region": "Zealand",
+   "land_km2": 18.7,
+   "mapped_km2": 9.1,
+   "mapped_pct_of_land": 48.8,
+   "sand_pct": 2.4,
+   "clay_pct": 86.9,
+   "humus_pct": 10.7
+  },
+  {
+   "name": "Egedal",
+   "region": "Zealand",
+   "land_km2": 125.6,
+   "mapped_km2": 87.4,
+   "mapped_pct_of_land": 69.6,
+   "sand_pct": 9.1,
+   "clay_pct": 75.4,
+   "humus_pct": 15.5
+  },
+  {
+   "name": "Esbjerg",
+   "region": "West Jutland",
+   "land_km2": 759.5,
+   "mapped_km2": 620.8,
+   "mapped_pct_of_land": 81.7,
+   "sand_pct": 84.5,
+   "clay_pct": 10.5,
+   "humus_pct": 5.0
+  },
+  {
+   "name": "Faaborg-Midtfyn",
+   "region": "Funen",
+   "land_km2": 638.4,
+   "mapped_km2": 519.9,
+   "mapped_pct_of_land": 81.4,
+   "sand_pct": 20.9,
+   "clay_pct": 75.4,
+   "humus_pct": 3.6
+  },
+  {
+   "name": "Fanø",
+   "region": "West Jutland",
+   "land_km2": 65.2,
+   "mapped_km2": 56.4,
+   "mapped_pct_of_land": 86.5,
+   "sand_pct": 82.8,
+   "clay_pct": 12.8,
+   "humus_pct": 4.4
+  },
+  {
+   "name": "Favrskov",
+   "region": "East Jutland",
+   "land_km2": 541.7,
+   "mapped_km2": 456.4,
+   "mapped_pct_of_land": 84.3,
+   "sand_pct": 15.5,
+   "clay_pct": 81.5,
+   "humus_pct": 2.9
+  },
+  {
+   "name": "Faxe",
+   "region": "Zealand",
+   "land_km2": 406.0,
+   "mapped_km2": 340.2,
+   "mapped_pct_of_land": 83.8,
+   "sand_pct": 3.5,
+   "clay_pct": 94.1,
+   "humus_pct": 2.5
+  },
+  {
+   "name": "Fredensborg",
+   "region": "Zealand",
+   "land_km2": 112.9,
+   "mapped_km2": 70.2,
+   "mapped_pct_of_land": 62.2,
+   "sand_pct": 10.6,
+   "clay_pct": 83.2,
+   "humus_pct": 6.2
+  },
+  {
+   "name": "Fredericia",
+   "region": "East Jutland",
+   "land_km2": 136.4,
+   "mapped_km2": 85.2,
+   "mapped_pct_of_land": 62.4,
+   "sand_pct": 0.2,
+   "clay_pct": 94.7,
+   "humus_pct": 5.1
+  },
+  {
+   "name": "Frederiksberg",
+   "region": "Zealand",
+   "land_km2": 8.7,
+   "mapped_km2": 0.3,
+   "mapped_pct_of_land": 3.7,
+   "sand_pct": 0.0,
+   "clay_pct": 99.8,
+   "humus_pct": 0.2
+  },
+  {
+   "name": "Frederikshavn",
+   "region": "North Jutland",
+   "land_km2": 655.0,
+   "mapped_km2": 539.6,
+   "mapped_pct_of_land": 82.4,
+   "sand_pct": 89.1,
+   "clay_pct": 6.2,
+   "humus_pct": 4.7
+  },
+  {
+   "name": "Frederikssund",
+   "region": "Zealand",
+   "land_km2": 252.2,
+   "mapped_km2": 189.9,
+   "mapped_pct_of_land": 75.3,
+   "sand_pct": 36.3,
+   "clay_pct": 59.2,
+   "humus_pct": 4.5
+  },
+  {
+   "name": "Furesø",
+   "region": "Zealand",
+   "land_km2": 57.2,
+   "mapped_km2": 27.9,
+   "mapped_pct_of_land": 48.8,
+   "sand_pct": 6.2,
+   "clay_pct": 81.8,
+   "humus_pct": 12.0
+  },
+  {
+   "name": "Gentofte",
+   "region": "Zealand",
+   "land_km2": 25.6,
+   "mapped_km2": 2.9,
+   "mapped_pct_of_land": 11.3,
+   "sand_pct": 0.1,
+   "clay_pct": 77.4,
+   "humus_pct": 22.5
+  },
+  {
+   "name": "Gladsaxe",
+   "region": "Zealand",
+   "land_km2": 24.5,
+   "mapped_km2": 3.0,
+   "mapped_pct_of_land": 12.0,
+   "sand_pct": 0.0,
+   "clay_pct": 84.7,
+   "humus_pct": 15.3
+  },
+  {
+   "name": "Glostrup",
+   "region": "Zealand",
+   "land_km2": 13.6,
+   "mapped_km2": 2.8,
+   "mapped_pct_of_land": 20.5,
+   "sand_pct": 0.0,
+   "clay_pct": 96.0,
+   "humus_pct": 4.0
+  },
+  {
+   "name": "Greve",
+   "region": "Zealand",
+   "land_km2": 61.4,
+   "mapped_km2": 29.1,
+   "mapped_pct_of_land": 47.4,
+   "sand_pct": 0.0,
+   "clay_pct": 97.1,
+   "humus_pct": 2.9
+  },
+  {
+   "name": "Gribskov",
+   "region": "Zealand",
+   "land_km2": 281.3,
+   "mapped_km2": 184.4,
+   "mapped_pct_of_land": 65.6,
+   "sand_pct": 12.2,
+   "clay_pct": 78.0,
+   "humus_pct": 9.7
+  },
+  {
+   "name": "Guldborgsund",
+   "region": "Lolland-Falster",
+   "land_km2": 911.5,
+   "mapped_km2": 764.9,
+   "mapped_pct_of_land": 83.9,
+   "sand_pct": 1.8,
+   "clay_pct": 94.0,
+   "humus_pct": 4.2
+  },
+  {
+   "name": "Haderslev",
+   "region": "East Jutland",
+   "land_km2": 816.5,
+   "mapped_km2": 696.4,
+   "mapped_pct_of_land": 85.3,
+   "sand_pct": 49.5,
+   "clay_pct": 47.7,
+   "humus_pct": 2.7
+  },
+  {
+   "name": "Halsnæs",
+   "region": "Zealand",
+   "land_km2": 123.3,
+   "mapped_km2": 62.5,
+   "mapped_pct_of_land": 50.7,
+   "sand_pct": 51.0,
+   "clay_pct": 42.0,
+   "humus_pct": 7.1
+  },
+  {
+   "name": "Hedensted",
+   "region": "East Jutland",
+   "land_km2": 554.0,
+   "mapped_km2": 457.0,
+   "mapped_pct_of_land": 82.5,
+   "sand_pct": 19.2,
+   "clay_pct": 78.3,
+   "humus_pct": 2.5
+  },
+  {
+   "name": "Helsingør",
+   "region": "Zealand",
+   "land_km2": 123.6,
+   "mapped_km2": 73.4,
+   "mapped_pct_of_land": 59.4,
+   "sand_pct": 23.8,
+   "clay_pct": 70.8,
+   "humus_pct": 5.4
+  },
+  {
+   "name": "Herlev",
+   "region": "Zealand",
+   "land_km2": 12.3,
+   "mapped_km2": 1.5,
+   "mapped_pct_of_land": 12.1,
+   "sand_pct": 0.0,
+   "clay_pct": 81.1,
+   "humus_pct": 18.9
+  },
+  {
+   "name": "Herning",
+   "region": "West Jutland",
+   "land_km2": 1322.7,
+   "mapped_km2": 1128.9,
+   "mapped_pct_of_land": 85.4,
+   "sand_pct": 94.9,
+   "clay_pct": 0.1,
+   "humus_pct": 5.0
+  },
+  {
+   "name": "Hillerød",
+   "region": "Zealand",
+   "land_km2": 212.1,
+   "mapped_km2": 148.1,
+   "mapped_pct_of_land": 69.8,
+   "sand_pct": 17.1,
+   "clay_pct": 76.5,
+   "humus_pct": 6.4
+  },
+  {
+   "name": "Hjørring",
+   "region": "North Jutland",
+   "land_km2": 929.4,
+   "mapped_km2": 777.3,
+   "mapped_pct_of_land": 83.6,
+   "sand_pct": 80.9,
+   "clay_pct": 12.0,
+   "humus_pct": 7.1
+  },
+  {
+   "name": "Holbæk",
+   "region": "Zealand",
+   "land_km2": 579.1,
+   "mapped_km2": 471.4,
+   "mapped_pct_of_land": 81.4,
+   "sand_pct": 16.7,
+   "clay_pct": 76.5,
+   "humus_pct": 6.7
+  },
+  {
+   "name": "Holstebro",
+   "region": "West Jutland",
+   "land_km2": 806.3,
+   "mapped_km2": 670.5,
+   "mapped_pct_of_land": 83.2,
+   "sand_pct": 85.7,
+   "clay_pct": 9.5,
+   "humus_pct": 4.8
+  },
+  {
+   "name": "Horsens",
+   "region": "East Jutland",
+   "land_km2": 526.1,
+   "mapped_km2": 411.7,
+   "mapped_pct_of_land": 78.3,
+   "sand_pct": 32.8,
+   "clay_pct": 63.7,
+   "humus_pct": 3.4
+  },
+  {
+   "name": "Hvidovre",
+   "region": "Zealand",
+   "land_km2": 23.0,
+   "mapped_km2": 2.6,
+   "mapped_pct_of_land": 11.4,
+   "sand_pct": 0.0,
+   "clay_pct": 95.0,
+   "humus_pct": 5.0
+  },
+  {
+   "name": "Høje-Taastrup",
+   "region": "Zealand",
+   "land_km2": 78.3,
+   "mapped_km2": 42.2,
+   "mapped_pct_of_land": 54.0,
+   "sand_pct": 0.4,
+   "clay_pct": 92.3,
+   "humus_pct": 7.3
+  },
+  {
+   "name": "Hørsholm",
+   "region": "Zealand",
+   "land_km2": 31.5,
+   "mapped_km2": 13.6,
+   "mapped_pct_of_land": 43.1,
+   "sand_pct": 7.1,
+   "clay_pct": 88.4,
+   "humus_pct": 4.5
+  },
+  {
+   "name": "Ikast-Brande",
+   "region": "West Jutland",
+   "land_km2": 735.0,
+   "mapped_km2": 624.0,
+   "mapped_pct_of_land": 84.9,
+   "sand_pct": 95.7,
+   "clay_pct": 0.2,
+   "humus_pct": 4.1
+  },
+  {
+   "name": "Ishøj",
+   "region": "Zealand",
+   "land_km2": 26.0,
+   "mapped_km2": 13.3,
+   "mapped_pct_of_land": 51.3,
+   "sand_pct": 0.0,
+   "clay_pct": 93.7,
+   "humus_pct": 6.3
+  },
+  {
+   "name": "Jammerbugt",
+   "region": "North Jutland",
+   "land_km2": 876.9,
+   "mapped_km2": 738.6,
+   "mapped_pct_of_land": 84.2,
+   "sand_pct": 84.1,
+   "clay_pct": 7.6,
+   "humus_pct": 8.3
+  },
+  {
+   "name": "Kalundborg",
+   "region": "Zealand",
+   "land_km2": 610.3,
+   "mapped_km2": 462.2,
+   "mapped_pct_of_land": 75.7,
+   "sand_pct": 11.6,
+   "clay_pct": 81.1,
+   "humus_pct": 7.3
+  },
+  {
+   "name": "Kerteminde",
+   "region": "Funen",
+   "land_km2": 208.9,
+   "mapped_km2": 163.0,
+   "mapped_pct_of_land": 78.0,
+   "sand_pct": 15.2,
+   "clay_pct": 82.9,
+   "humus_pct": 1.9
+  },
+  {
+   "name": "Kolding",
+   "region": "East Jutland",
+   "land_km2": 605.1,
+   "mapped_km2": 483.5,
+   "mapped_pct_of_land": 79.9,
+   "sand_pct": 19.7,
+   "clay_pct": 77.3,
+   "humus_pct": 3.0
+  },
+  {
+   "name": "København",
+   "region": "Zealand",
+   "land_km2": 93.6,
+   "mapped_km2": 7.9,
+   "mapped_pct_of_land": 8.5,
+   "sand_pct": 0.0,
+   "clay_pct": 63.9,
+   "humus_pct": 36.1
+  },
+  {
+   "name": "Køge",
+   "region": "Zealand",
+   "land_km2": 256.8,
+   "mapped_km2": 195.5,
+   "mapped_pct_of_land": 76.1,
+   "sand_pct": 1.2,
+   "clay_pct": 96.2,
+   "humus_pct": 2.6
+  },
+  {
+   "name": "Langeland",
+   "region": "Funen",
+   "land_km2": 293.1,
+   "mapped_km2": 244.7,
+   "mapped_pct_of_land": 83.5,
+   "sand_pct": 1.4,
+   "clay_pct": 91.0,
+   "humus_pct": 7.7
+  },
+  {
+   "name": "Lejre",
+   "region": "Zealand",
+   "land_km2": 241.9,
+   "mapped_km2": 195.1,
+   "mapped_pct_of_land": 80.7,
+   "sand_pct": 3.6,
+   "clay_pct": 92.1,
+   "humus_pct": 4.3
+  },
+  {
+   "name": "Lemvig",
+   "region": "East Jutland",
+   "land_km2": 517.7,
+   "mapped_km2": 436.0,
+   "mapped_pct_of_land": 84.2,
+   "sand_pct": 66.2,
+   "clay_pct": 30.9,
+   "humus_pct": 2.9
+  },
+  {
+   "name": "Lolland",
+   "region": "Lolland-Falster",
+   "land_km2": 902.3,
+   "mapped_km2": 771.3,
+   "mapped_pct_of_land": 85.5,
+   "sand_pct": 2.2,
+   "clay_pct": 95.7,
+   "humus_pct": 2.1
+  },
+  {
+   "name": "Lyngby-Taarbæk",
+   "region": "Zealand",
+   "land_km2": 39.2,
+   "mapped_km2": 15.4,
+   "mapped_pct_of_land": 39.3,
+   "sand_pct": 8.9,
+   "clay_pct": 85.4,
+   "humus_pct": 5.8
+  },
+  {
+   "name": "Læsø",
+   "region": "North Jutland",
+   "land_km2": 119.6,
+   "mapped_km2": 99.6,
+   "mapped_pct_of_land": 83.3,
+   "sand_pct": 97.7,
+   "clay_pct": 0.5,
+   "humus_pct": 1.7
+  },
+  {
+   "name": "Mariagerfjord",
+   "region": "North Jutland",
+   "land_km2": 725.6,
+   "mapped_km2": 610.7,
+   "mapped_pct_of_land": 84.2,
+   "sand_pct": 89.7,
+   "clay_pct": 2.6,
+   "humus_pct": 7.7
+  },
+  {
+   "name": "Middelfart",
+   "region": "Funen",
+   "land_km2": 302.0,
+   "mapped_km2": 230.3,
+   "mapped_pct_of_land": 76.3,
+   "sand_pct": 11.3,
+   "clay_pct": 85.6,
+   "humus_pct": 3.1
+  },
+  {
+   "name": "Morsø",
+   "region": "North Jutland",
+   "land_km2": 369.0,
+   "mapped_km2": 304.8,
+   "mapped_pct_of_land": 82.6,
+   "sand_pct": 17.5,
+   "clay_pct": 79.7,
+   "humus_pct": 2.9
+  },
+  {
+   "name": "Norddjurs",
+   "region": "East Jutland",
+   "land_km2": 728.0,
+   "mapped_km2": 621.2,
+   "mapped_pct_of_land": 85.3,
+   "sand_pct": 77.1,
+   "clay_pct": 16.3,
+   "humus_pct": 6.6
+  },
+  {
+   "name": "Nordfyns",
+   "region": "Funen",
+   "land_km2": 452.9,
+   "mapped_km2": 374.0,
+   "mapped_pct_of_land": 82.6,
+   "sand_pct": 21.7,
+   "clay_pct": 75.7,
+   "humus_pct": 2.6
+  },
+  {
+   "name": "Nyborg",
+   "region": "Funen",
+   "land_km2": 278.5,
+   "mapped_km2": 226.9,
+   "mapped_pct_of_land": 81.5,
+   "sand_pct": 3.3,
+   "clay_pct": 94.6,
+   "humus_pct": 2.2
+  },
+  {
+   "name": "Næstved",
+   "region": "Zealand",
+   "land_km2": 686.7,
+   "mapped_km2": 560.6,
+   "mapped_pct_of_land": 81.6,
+   "sand_pct": 2.9,
+   "clay_pct": 92.6,
+   "humus_pct": 4.4
+  },
+  {
+   "name": "Odder",
+   "region": "East Jutland",
+   "land_km2": 226.2,
+   "mapped_km2": 189.1,
+   "mapped_pct_of_land": 83.6,
+   "sand_pct": 10.0,
+   "clay_pct": 86.9,
+   "humus_pct": 3.1
+  },
+  {
+   "name": "Odense",
+   "region": "Funen",
+   "land_km2": 306.1,
+   "mapped_km2": 176.6,
+   "mapped_pct_of_land": 57.7,
+   "sand_pct": 17.6,
+   "clay_pct": 79.1,
+   "humus_pct": 3.2
+  },
+  {
+   "name": "Odsherred",
+   "region": "Zealand",
+   "land_km2": 360.1,
+   "mapped_km2": 256.1,
+   "mapped_pct_of_land": 71.1,
+   "sand_pct": 25.5,
+   "clay_pct": 69.0,
+   "humus_pct": 5.5
+  },
+  {
+   "name": "Randers",
+   "region": "East Jutland",
+   "land_km2": 749.1,
+   "mapped_km2": 618.9,
+   "mapped_pct_of_land": 82.6,
+   "sand_pct": 48.7,
+   "clay_pct": 42.8,
+   "humus_pct": 8.5
+  },
+  {
+   "name": "Rebild",
+   "region": "North Jutland",
+   "land_km2": 622.4,
+   "mapped_km2": 540.3,
+   "mapped_pct_of_land": 86.8,
+   "sand_pct": 88.1,
+   "clay_pct": 1.7,
+   "humus_pct": 10.1
+  },
+  {
+   "name": "Ringkøbing-Skjern",
+   "region": "West Jutland",
+   "land_km2": 1493.0,
+   "mapped_km2": 1268.8,
+   "mapped_pct_of_land": 85.0,
+   "sand_pct": 89.9,
+   "clay_pct": 4.0,
+   "humus_pct": 6.1
+  },
+  {
+   "name": "Ringsted",
+   "region": "Zealand",
+   "land_km2": 295.1,
+   "mapped_km2": 242.1,
+   "mapped_pct_of_land": 82.0,
+   "sand_pct": 3.6,
+   "clay_pct": 92.2,
+   "humus_pct": 4.3
+  },
+  {
+   "name": "Roskilde",
+   "region": "Zealand",
+   "land_km2": 213.1,
+   "mapped_km2": 136.5,
+   "mapped_pct_of_land": 64.1,
+   "sand_pct": 1.1,
+   "clay_pct": 92.4,
+   "humus_pct": 6.4
+  },
+  {
+   "name": "Rudersdal",
+   "region": "Zealand",
+   "land_km2": 73.4,
+   "mapped_km2": 32.7,
+   "mapped_pct_of_land": 44.5,
+   "sand_pct": 4.4,
+   "clay_pct": 85.1,
+   "humus_pct": 10.5
+  },
+  {
+   "name": "Rødovre",
+   "region": "Zealand",
+   "land_km2": 12.1,
+   "mapped_km2": 0.7,
+   "mapped_pct_of_land": 5.9,
+   "sand_pct": 0.0,
+   "clay_pct": 96.7,
+   "humus_pct": 3.3
+  },
+  {
+   "name": "Samsø",
+   "region": "Zealand",
+   "land_km2": 115.8,
+   "mapped_km2": 96.0,
+   "mapped_pct_of_land": 82.8,
+   "sand_pct": 40.7,
+   "clay_pct": 58.5,
+   "humus_pct": 0.8
+  },
+  {
+   "name": "Silkeborg",
+   "region": "East Jutland",
+   "land_km2": 864.7,
+   "mapped_km2": 700.3,
+   "mapped_pct_of_land": 81.0,
+   "sand_pct": 67.2,
+   "clay_pct": 29.0,
+   "humus_pct": 3.8
+  },
+  {
+   "name": "Skanderborg",
+   "region": "East Jutland",
+   "land_km2": 454.6,
+   "mapped_km2": 334.8,
+   "mapped_pct_of_land": 73.6,
+   "sand_pct": 31.1,
+   "clay_pct": 64.8,
+   "humus_pct": 4.2
+  },
+  {
+   "name": "Skive",
+   "region": "East Jutland",
+   "land_km2": 693.5,
+   "mapped_km2": 569.0,
+   "mapped_pct_of_land": 82.0,
+   "sand_pct": 66.9,
+   "clay_pct": 26.8,
+   "humus_pct": 6.3
+  },
+  {
+   "name": "Slagelse",
+   "region": "Zealand",
+   "land_km2": 577.1,
+   "mapped_km2": 460.4,
+   "mapped_pct_of_land": 79.8,
+   "sand_pct": 3.5,
+   "clay_pct": 94.3,
+   "humus_pct": 2.2
+  },
+  {
+   "name": "Solrød",
+   "region": "Zealand",
+   "land_km2": 41.0,
+   "mapped_km2": 26.1,
+   "mapped_pct_of_land": 63.6,
+   "sand_pct": 0.1,
+   "clay_pct": 92.9,
+   "humus_pct": 7.0
+  },
+  {
+   "name": "Sorø",
+   "region": "Zealand",
+   "land_km2": 308.8,
+   "mapped_km2": 244.0,
+   "mapped_pct_of_land": 79.0,
+   "sand_pct": 17.6,
+   "clay_pct": 71.4,
+   "humus_pct": 10.9
+  },
+  {
+   "name": "Stevns",
+   "region": "Zealand",
+   "land_km2": 251.8,
+   "mapped_km2": 211.0,
+   "mapped_pct_of_land": 83.8,
+   "sand_pct": 0.1,
+   "clay_pct": 97.7,
+   "humus_pct": 2.2
+  },
+  {
+   "name": "Struer",
+   "region": "East Jutland",
+   "land_km2": 252.6,
+   "mapped_km2": 204.2,
+   "mapped_pct_of_land": 80.9,
+   "sand_pct": 42.1,
+   "clay_pct": 55.9,
+   "humus_pct": 2.0
+  },
+  {
+   "name": "Svendborg",
+   "region": "Funen",
+   "land_km2": 417.8,
+   "mapped_km2": 331.5,
+   "mapped_pct_of_land": 79.3,
+   "sand_pct": 2.8,
+   "clay_pct": 95.8,
+   "humus_pct": 1.4
+  },
+  {
+   "name": "Syddjurs",
+   "region": "East Jutland",
+   "land_km2": 698.4,
+   "mapped_km2": 575.0,
+   "mapped_pct_of_land": 82.3,
+   "sand_pct": 59.5,
+   "clay_pct": 30.4,
+   "humus_pct": 10.1
+  },
+  {
+   "name": "Sønderborg",
+   "region": "East Jutland",
+   "land_km2": 498.1,
+   "mapped_km2": 387.5,
+   "mapped_pct_of_land": 77.8,
+   "sand_pct": 7.0,
+   "clay_pct": 91.3,
+   "humus_pct": 1.8
+  },
+  {
+   "name": "Thisted",
+   "region": "North Jutland",
+   "land_km2": 1104.4,
+   "mapped_km2": 910.2,
+   "mapped_pct_of_land": 82.4,
+   "sand_pct": 54.6,
+   "clay_pct": 42.0,
+   "humus_pct": 3.4
+  },
+  {
+   "name": "Tårnby",
+   "region": "Zealand",
+   "land_km2": 66.8,
+   "mapped_km2": 32.7,
+   "mapped_pct_of_land": 49.0,
+   "sand_pct": 1.8,
+   "clay_pct": 81.6,
+   "humus_pct": 16.6
+  },
+  {
+   "name": "Tønder",
+   "region": "West Jutland",
+   "land_km2": 1186.1,
+   "mapped_km2": 1024.7,
+   "mapped_pct_of_land": 86.4,
+   "sand_pct": 81.1,
+   "clay_pct": 10.4,
+   "humus_pct": 8.5
+  },
+  {
+   "name": "Vallensbæk",
+   "region": "Zealand",
+   "land_km2": 9.0,
+   "mapped_km2": 1.9,
+   "mapped_pct_of_land": 21.0,
+   "sand_pct": 0.0,
+   "clay_pct": 75.2,
+   "humus_pct": 24.8
+  },
+  {
+   "name": "Varde",
+   "region": "West Jutland",
+   "land_km2": 1237.7,
+   "mapped_km2": 1065.4,
+   "mapped_pct_of_land": 86.1,
+   "sand_pct": 93.5,
+   "clay_pct": 1.4,
+   "humus_pct": 5.1
+  },
+  {
+   "name": "Vejen",
+   "region": "West Jutland",
+   "land_km2": 813.8,
+   "mapped_km2": 701.2,
+   "mapped_pct_of_land": 86.2,
+   "sand_pct": 86.3,
+   "clay_pct": 11.3,
+   "humus_pct": 2.4
+  },
+  {
+   "name": "Vejle",
+   "region": "East Jutland",
+   "land_km2": 1062.5,
+   "mapped_km2": 873.3,
+   "mapped_pct_of_land": 82.2,
+   "sand_pct": 57.5,
+   "clay_pct": 41.0,
+   "humus_pct": 1.5
+  },
+  {
+   "name": "Vesthimmerlands",
+   "region": "North Jutland",
+   "land_km2": 771.4,
+   "mapped_km2": 654.8,
+   "mapped_pct_of_land": 84.9,
+   "sand_pct": 89.8,
+   "clay_pct": 0.4,
+   "humus_pct": 9.8
+  },
+  {
+   "name": "Viborg",
+   "region": "East Jutland",
+   "land_km2": 1421.2,
+   "mapped_km2": 1198.8,
+   "mapped_pct_of_land": 84.4,
+   "sand_pct": 85.4,
+   "clay_pct": 6.5,
+   "humus_pct": 8.1
+  },
+  {
+   "name": "Vordingborg",
+   "region": "Zealand",
+   "land_km2": 629.3,
+   "mapped_km2": 520.6,
+   "mapped_pct_of_land": 82.7,
+   "sand_pct": 3.0,
+   "clay_pct": 92.2,
+   "humus_pct": 4.8
+  },
+  {
+   "name": "Ærø",
+   "region": "Funen",
+   "land_km2": 92.2,
+   "mapped_km2": 71.5,
+   "mapped_pct_of_land": 77.6,
+   "sand_pct": 6.0,
+   "clay_pct": 93.1,
+   "humus_pct": 1.0
+  }
+ ],
+ "geology": {
+  "families": {
+   "1": "Clayey till",
+   "2": "Sandy till",
+   "3": "Meltwater sand and gravel",
+   "4": "Meltwater clay",
+   "5": "Wind-blown sand",
+   "6": "Marine sand and gravel",
+   "7": "Marine clay and marsh",
+   "8": "Peat and gyttja",
+   "9": "Freshwater sand and clay",
+   "10": "Chalk and limestone",
+   "11": "Older clay and rock"
+  },
+  "note": "share_of_land = of all land; share_of_mapped = of the area GEUS maps to a sediment family (the rest is water, built-up, fill)",
+  "by_region": {
+   "West Jutland": {
+    "land_km2": 8960.0,
+    "mapped_km2": 7943.5,
+    "family_km2": {
+     "Clayey till": 595.2,
+     "Sandy till": 355.2,
+     "Meltwater sand and gravel": 4312.4,
+     "Meltwater clay": 52.2,
+     "Wind-blown sand": 1135.2,
+     "Marine sand and gravel": 129.8,
+     "Marine clay and marsh": 283.7,
+     "Peat and gyttja": 836.6,
+     "Freshwater sand and clay": 233.5,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 9.7
+    },
+    "family_share_of_land_pct": {
+     "Clayey till": 6.6,
+     "Sandy till": 4.0,
+     "Meltwater sand and gravel": 48.1,
+     "Meltwater clay": 0.6,
+     "Wind-blown sand": 12.7,
+     "Marine sand and gravel": 1.4,
+     "Marine clay and marsh": 3.2,
+     "Peat and gyttja": 9.3,
+     "Freshwater sand and clay": 2.6,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.1
+    },
+    "family_share_of_mapped_pct": {
+     "Clayey till": 7.5,
+     "Sandy till": 4.5,
+     "Meltwater sand and gravel": 54.3,
+     "Meltwater clay": 0.7,
+     "Wind-blown sand": 14.3,
+     "Marine sand and gravel": 1.6,
+     "Marine clay and marsh": 3.6,
+     "Peat and gyttja": 10.5,
+     "Freshwater sand and clay": 2.9,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.1
+    }
+   },
+   "East Jutland": {
+    "land_km2": 12760.8,
+    "mapped_km2": 11649.8,
+    "family_km2": {
+     "Clayey till": 4635.1,
+     "Sandy till": 1021.6,
+     "Meltwater sand and gravel": 3909.0,
+     "Meltwater clay": 150.6,
+     "Wind-blown sand": 367.0,
+     "Marine sand and gravel": 297.6,
+     "Marine clay and marsh": 116.5,
+     "Peat and gyttja": 914.5,
+     "Freshwater sand and clay": 183.4,
+     "Chalk and limestone": 1.9,
+     "Older clay and rock": 52.6
+    },
+    "family_share_of_land_pct": {
+     "Clayey till": 36.3,
+     "Sandy till": 8.0,
+     "Meltwater sand and gravel": 30.6,
+     "Meltwater clay": 1.2,
+     "Wind-blown sand": 2.9,
+     "Marine sand and gravel": 2.3,
+     "Marine clay and marsh": 0.9,
+     "Peat and gyttja": 7.2,
+     "Freshwater sand and clay": 1.4,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.4
+    },
+    "family_share_of_mapped_pct": {
+     "Clayey till": 39.8,
+     "Sandy till": 8.8,
+     "Meltwater sand and gravel": 33.6,
+     "Meltwater clay": 1.3,
+     "Wind-blown sand": 3.2,
+     "Marine sand and gravel": 2.6,
+     "Marine clay and marsh": 1.0,
+     "Peat and gyttja": 7.8,
+     "Freshwater sand and clay": 1.6,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.5
+    }
+   },
+   "North Jutland": {
+    "land_km2": 7948.6,
+    "mapped_km2": 6370.3,
+    "family_km2": {
+     "Clayey till": 727.3,
+     "Sandy till": 1079.4,
+     "Meltwater sand and gravel": 737.6,
+     "Meltwater clay": 79.4,
+     "Wind-blown sand": 871.5,
+     "Marine sand and gravel": 1687.0,
+     "Marine clay and marsh": 284.7,
+     "Peat and gyttja": 740.6,
+     "Freshwater sand and clay": 75.2,
+     "Chalk and limestone": 55.3,
+     "Older clay and rock": 32.2
+    },
+    "family_share_of_land_pct": {
+     "Clayey till": 9.1,
+     "Sandy till": 13.6,
+     "Meltwater sand and gravel": 9.3,
+     "Meltwater clay": 1.0,
+     "Wind-blown sand": 11.0,
+     "Marine sand and gravel": 21.2,
+     "Marine clay and marsh": 3.6,
+     "Peat and gyttja": 9.3,
+     "Freshwater sand and clay": 0.9,
+     "Chalk and limestone": 0.7,
+     "Older clay and rock": 0.4
+    },
+    "family_share_of_mapped_pct": {
+     "Clayey till": 11.4,
+     "Sandy till": 16.9,
+     "Meltwater sand and gravel": 11.6,
+     "Meltwater clay": 1.2,
+     "Wind-blown sand": 13.7,
+     "Marine sand and gravel": 26.5,
+     "Marine clay and marsh": 4.5,
+     "Peat and gyttja": 11.6,
+     "Freshwater sand and clay": 1.2,
+     "Chalk and limestone": 0.9,
+     "Older clay and rock": 0.5
+    }
+   },
+   "Funen": {
+    "land_km2": 3503.7,
+    "mapped_km2": 3419.9,
+    "family_km2": {
+     "Clayey till": 2306.0,
+     "Sandy till": 42.0,
+     "Meltwater sand and gravel": 609.1,
+     "Meltwater clay": 43.4,
+     "Wind-blown sand": 3.7,
+     "Marine sand and gravel": 78.9,
+     "Marine clay and marsh": 24.2,
+     "Peat and gyttja": 291.3,
+     "Freshwater sand and clay": 20.9,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.6
+    },
+    "family_share_of_land_pct": {
+     "Clayey till": 65.8,
+     "Sandy till": 1.2,
+     "Meltwater sand and gravel": 17.4,
+     "Meltwater clay": 1.2,
+     "Wind-blown sand": 0.1,
+     "Marine sand and gravel": 2.3,
+     "Marine clay and marsh": 0.7,
+     "Peat and gyttja": 8.3,
+     "Freshwater sand and clay": 0.6,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.0
+    },
+    "family_share_of_mapped_pct": {
+     "Clayey till": 67.4,
+     "Sandy till": 1.2,
+     "Meltwater sand and gravel": 17.8,
+     "Meltwater clay": 1.3,
+     "Wind-blown sand": 0.1,
+     "Marine sand and gravel": 2.3,
+     "Marine clay and marsh": 0.7,
+     "Peat and gyttja": 8.5,
+     "Freshwater sand and clay": 0.6,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.0
+    }
+   },
+   "Zealand": {
+    "land_km2": 7624.8,
+    "mapped_km2": 7276.7,
+    "family_km2": {
+     "Clayey till": 4460.5,
+     "Sandy till": 40.0,
+     "Meltwater sand and gravel": 1143.1,
+     "Meltwater clay": 99.7,
+     "Wind-blown sand": 82.9,
+     "Marine sand and gravel": 315.0,
+     "Marine clay and marsh": 54.3,
+     "Peat and gyttja": 970.2,
+     "Freshwater sand and clay": 108.0,
+     "Chalk and limestone": 2.8,
+     "Older clay and rock": 0.3
+    },
+    "family_share_of_land_pct": {
+     "Clayey till": 58.5,
+     "Sandy till": 0.5,
+     "Meltwater sand and gravel": 15.0,
+     "Meltwater clay": 1.3,
+     "Wind-blown sand": 1.1,
+     "Marine sand and gravel": 4.1,
+     "Marine clay and marsh": 0.7,
+     "Peat and gyttja": 12.7,
+     "Freshwater sand and clay": 1.4,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.0
+    },
+    "family_share_of_mapped_pct": {
+     "Clayey till": 61.3,
+     "Sandy till": 0.5,
+     "Meltwater sand and gravel": 15.7,
+     "Meltwater clay": 1.4,
+     "Wind-blown sand": 1.1,
+     "Marine sand and gravel": 4.3,
+     "Marine clay and marsh": 0.7,
+     "Peat and gyttja": 13.3,
+     "Freshwater sand and clay": 1.5,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.0
+    }
+   },
+   "Lolland-Falster": {
+    "land_km2": 1813.8,
+    "mapped_km2": 1703.9,
+    "family_km2": {
+     "Clayey till": 1420.3,
+     "Sandy till": 37.4,
+     "Meltwater sand and gravel": 21.2,
+     "Meltwater clay": 4.4,
+     "Wind-blown sand": 3.5,
+     "Marine sand and gravel": 73.7,
+     "Marine clay and marsh": 16.3,
+     "Peat and gyttja": 83.5,
+     "Freshwater sand and clay": 40.3,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 3.4
+    },
+    "family_share_of_land_pct": {
+     "Clayey till": 78.3,
+     "Sandy till": 2.1,
+     "Meltwater sand and gravel": 1.2,
+     "Meltwater clay": 0.2,
+     "Wind-blown sand": 0.2,
+     "Marine sand and gravel": 4.1,
+     "Marine clay and marsh": 0.9,
+     "Peat and gyttja": 4.6,
+     "Freshwater sand and clay": 2.2,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.2
+    },
+    "family_share_of_mapped_pct": {
+     "Clayey till": 83.4,
+     "Sandy till": 2.2,
+     "Meltwater sand and gravel": 1.2,
+     "Meltwater clay": 0.3,
+     "Wind-blown sand": 0.2,
+     "Marine sand and gravel": 4.3,
+     "Marine clay and marsh": 1.0,
+     "Peat and gyttja": 4.9,
+     "Freshwater sand and clay": 2.4,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 0.2
+    }
+   },
+   "Bornholm": {
+    "land_km2": 592.5,
+    "mapped_km2": 583.7,
+    "family_km2": {
+     "Clayey till": 355.3,
+     "Sandy till": 97.9,
+     "Meltwater sand and gravel": 27.2,
+     "Meltwater clay": 2.3,
+     "Wind-blown sand": 24.0,
+     "Marine sand and gravel": 13.5,
+     "Marine clay and marsh": 0.0,
+     "Peat and gyttja": 44.2,
+     "Freshwater sand and clay": 0.0,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 19.4
+    },
+    "family_share_of_land_pct": {
+     "Clayey till": 60.0,
+     "Sandy till": 16.5,
+     "Meltwater sand and gravel": 4.6,
+     "Meltwater clay": 0.4,
+     "Wind-blown sand": 4.0,
+     "Marine sand and gravel": 2.3,
+     "Marine clay and marsh": 0.0,
+     "Peat and gyttja": 7.5,
+     "Freshwater sand and clay": 0.0,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 3.3
+    },
+    "family_share_of_mapped_pct": {
+     "Clayey till": 60.9,
+     "Sandy till": 16.8,
+     "Meltwater sand and gravel": 4.7,
+     "Meltwater clay": 0.4,
+     "Wind-blown sand": 4.1,
+     "Marine sand and gravel": 2.3,
+     "Marine clay and marsh": 0.0,
+     "Peat and gyttja": 7.6,
+     "Freshwater sand and clay": 0.0,
+     "Chalk and limestone": 0.0,
+     "Older clay and rock": 3.3
+    }
+   },
+   "Denmark": {
+    "land_km2": 43204.1,
+    "mapped_km2": 38947.7,
+    "family_km2": {
+     "Clayey till": 14499.7,
+     "Sandy till": 2673.6,
+     "Meltwater sand and gravel": 10759.6,
+     "Meltwater clay": 431.9,
+     "Wind-blown sand": 2487.7,
+     "Marine sand and gravel": 2595.6,
+     "Marine clay and marsh": 779.6,
+     "Peat and gyttja": 3881.0,
+     "Freshwater sand and clay": 661.2,
+     "Chalk and limestone": 59.9,
+     "Older clay and rock": 118.2
+    },
+    "family_share_of_land_pct": {
+     "Clayey till": 33.6,
+     "Sandy till": 6.2,
+     "Meltwater sand and gravel": 24.9,
+     "Meltwater clay": 1.0,
+     "Wind-blown sand": 5.8,
+     "Marine sand and gravel": 6.0,
+     "Marine clay and marsh": 1.8,
+     "Peat and gyttja": 9.0,
+     "Freshwater sand and clay": 1.5,
+     "Chalk and limestone": 0.1,
+     "Older clay and rock": 0.3
+    },
+    "family_share_of_mapped_pct": {
+     "Clayey till": 37.2,
+     "Sandy till": 6.9,
+     "Meltwater sand and gravel": 27.6,
+     "Meltwater clay": 1.1,
+     "Wind-blown sand": 6.4,
+     "Marine sand and gravel": 6.7,
+     "Marine clay and marsh": 2.0,
+     "Peat and gyttja": 10.0,
+     "Freshwater sand and clay": 1.7,
+     "Chalk and limestone": 0.2,
+     "Older clay and rock": 0.3
+    }
+   }
+  }
+ },
+ "peat": {
+  "classes": {
+   "1": "6-12 % organic carbon",
+   "2": "over 12 % organic carbon"
+  },
+  "by_region": {
+   "West Jutland": {
+    "6_12_pct_km2": 364.7,
+    "over_12_pct_km2": 87.9,
+    "total_km2": 452.6,
+    "total_pct_of_land": 5.1,
+    "over_12_share_of_peat_pct": 19.4,
+    "geus_peat_and_gyttja_km2_for_comparison": 836.6
+   },
+   "East Jutland": {
+    "6_12_pct_km2": 296.5,
+    "over_12_pct_km2": 288.2,
+    "total_km2": 584.7,
+    "total_pct_of_land": 4.6,
+    "over_12_share_of_peat_pct": 49.3,
+    "geus_peat_and_gyttja_km2_for_comparison": 914.5
+   },
+   "North Jutland": {
+    "6_12_pct_km2": 288.3,
+    "over_12_pct_km2": 315.2,
+    "total_km2": 603.6,
+    "total_pct_of_land": 7.6,
+    "over_12_share_of_peat_pct": 52.2,
+    "geus_peat_and_gyttja_km2_for_comparison": 740.6
+   },
+   "Funen": {
+    "6_12_pct_km2": 66.5,
+    "over_12_pct_km2": 37.7,
+    "total_km2": 104.1,
+    "total_pct_of_land": 3.0,
+    "over_12_share_of_peat_pct": 36.2,
+    "geus_peat_and_gyttja_km2_for_comparison": 291.3
+   },
+   "Zealand": {
+    "6_12_pct_km2": 248.4,
+    "over_12_pct_km2": 139.6,
+    "total_km2": 388.0,
+    "total_pct_of_land": 5.1,
+    "over_12_share_of_peat_pct": 36.0,
+    "geus_peat_and_gyttja_km2_for_comparison": 970.2
+   },
+   "Lolland-Falster": {
+    "6_12_pct_km2": 36.4,
+    "over_12_pct_km2": 22.6,
+    "total_km2": 59.1,
+    "total_pct_of_land": 3.3,
+    "over_12_share_of_peat_pct": 38.3,
+    "geus_peat_and_gyttja_km2_for_comparison": 83.5
+   },
+   "Bornholm": {
+    "6_12_pct_km2": 0.5,
+    "over_12_pct_km2": 0.3,
+    "total_km2": 0.8,
+    "total_pct_of_land": 0.1,
+    "over_12_share_of_peat_pct": 38.7,
+    "geus_peat_and_gyttja_km2_for_comparison": 44.2
+   },
+   "Denmark": {
+    "6_12_pct_km2": 1301.3,
+    "over_12_pct_km2": 891.5,
+    "total_km2": 2192.9,
+    "total_pct_of_land": 5.1,
+    "over_12_share_of_peat_pct": 40.7,
+    "geus_peat_and_gyttja_km2_for_comparison": 3881.0
+   }
+  },
+  "comparison_note": "The Danish peat layer maps lowland soils with more than 6 % organic carbon; GEUS maps surface sediment type, 'peat and gyttja', which includes thin or lean peat. They are different things, so GEUS is shown only as a cross-check (for example Bornholm has almost none in the Danish layer)."
+ },
+ "nitrogen_retention": {
+  "classes": {
+   "1": "0-20 %",
+   "2": "20-40 %",
+   "3": "40-60 %",
+   "4": "60-80 %",
+   "5": "80-100 %"
+  },
+  "note": "share of land area; 'not mapped' is land with no retention polygon",
+  "by_region": {
+   "West Jutland": {
+    "0-20 %": {
+     "km2": 0.0,
+     "pct_of_land": 0.0
+    },
+    "20-40 %": {
+     "km2": 4.8,
+     "pct_of_land": 0.1
+    },
+    "40-60 %": {
+     "km2": 156.8,
+     "pct_of_land": 1.7
+    },
+    "60-80 %": {
+     "km2": 4376.1,
+     "pct_of_land": 48.8
+    },
+    "80-100 %": {
+     "km2": 4389.8,
+     "pct_of_land": 49.0
+    },
+    "not mapped": {
+     "km2": 32.5,
+     "pct_of_land": 0.4
+    },
+    "pct_of_mapped": {
+     "0-20 %": 0.0,
+     "20-40 %": 0.1,
+     "40-60 %": 1.8,
+     "60-80 %": 49.0,
+     "80-100 %": 49.2
+    }
+   },
+   "East Jutland": {
+    "0-20 %": {
+     "km2": 8.3,
+     "pct_of_land": 0.1
+    },
+    "20-40 %": {
+     "km2": 62.9,
+     "pct_of_land": 0.5
+    },
+    "40-60 %": {
+     "km2": 1776.8,
+     "pct_of_land": 13.9
+    },
+    "60-80 %": {
+     "km2": 6247.0,
+     "pct_of_land": 49.0
+    },
+    "80-100 %": {
+     "km2": 4586.9,
+     "pct_of_land": 35.9
+    },
+    "not mapped": {
+     "km2": 79.0,
+     "pct_of_land": 0.6
+    },
+    "pct_of_mapped": {
+     "0-20 %": 0.1,
+     "20-40 %": 0.5,
+     "40-60 %": 14.0,
+     "60-80 %": 49.3,
+     "80-100 %": 36.2
+    }
+   },
+   "North Jutland": {
+    "0-20 %": {
+     "km2": 17.4,
+     "pct_of_land": 0.2
+    },
+    "20-40 %": {
+     "km2": 364.0,
+     "pct_of_land": 4.6
+    },
+    "40-60 %": {
+     "km2": 1256.6,
+     "pct_of_land": 15.8
+    },
+    "60-80 %": {
+     "km2": 4584.7,
+     "pct_of_land": 57.7
+    },
+    "80-100 %": {
+     "km2": 1661.0,
+     "pct_of_land": 20.9
+    },
+    "not mapped": {
+     "km2": 64.8,
+     "pct_of_land": 0.8
+    },
+    "pct_of_mapped": {
+     "0-20 %": 0.2,
+     "20-40 %": 4.6,
+     "40-60 %": 15.9,
+     "60-80 %": 58.2,
+     "80-100 %": 21.1
+    }
+   },
+   "Funen": {
+    "0-20 %": {
+     "km2": 0.2,
+     "pct_of_land": 0.0
+    },
+    "20-40 %": {
+     "km2": 50.6,
+     "pct_of_land": 1.4
+    },
+    "40-60 %": {
+     "km2": 1070.5,
+     "pct_of_land": 30.6
+    },
+    "60-80 %": {
+     "km2": 1869.5,
+     "pct_of_land": 53.4
+    },
+    "80-100 %": {
+     "km2": 465.1,
+     "pct_of_land": 13.3
+    },
+    "not mapped": {
+     "km2": 47.7,
+     "pct_of_land": 1.4
+    },
+    "pct_of_mapped": {
+     "0-20 %": 0.0,
+     "20-40 %": 1.5,
+     "40-60 %": 31.0,
+     "60-80 %": 54.1,
+     "80-100 %": 13.5
+    }
+   },
+   "Zealand": {
+    "0-20 %": {
+     "km2": 1.2,
+     "pct_of_land": 0.0
+    },
+    "20-40 %": {
+     "km2": 660.9,
+     "pct_of_land": 8.7
+    },
+    "40-60 %": {
+     "km2": 2452.2,
+     "pct_of_land": 32.2
+    },
+    "60-80 %": {
+     "km2": 2566.5,
+     "pct_of_land": 33.7
+    },
+    "80-100 %": {
+     "km2": 1857.2,
+     "pct_of_land": 24.4
+    },
+    "not mapped": {
+     "km2": 86.8,
+     "pct_of_land": 1.1
+    },
+    "pct_of_mapped": {
+     "0-20 %": 0.0,
+     "20-40 %": 8.8,
+     "40-60 %": 32.5,
+     "60-80 %": 34.0,
+     "80-100 %": 24.6
+    }
+   },
+   "Lolland-Falster": {
+    "0-20 %": {
+     "km2": 0.0,
+     "pct_of_land": 0.0
+    },
+    "20-40 %": {
+     "km2": 208.9,
+     "pct_of_land": 11.5
+    },
+    "40-60 %": {
+     "km2": 1079.1,
+     "pct_of_land": 59.5
+    },
+    "60-80 %": {
+     "km2": 361.4,
+     "pct_of_land": 19.9
+    },
+    "80-100 %": {
+     "km2": 134.0,
+     "pct_of_land": 7.4
+    },
+    "not mapped": {
+     "km2": 30.5,
+     "pct_of_land": 1.7
+    },
+    "pct_of_mapped": {
+     "0-20 %": 0.0,
+     "20-40 %": 11.7,
+     "40-60 %": 60.5,
+     "60-80 %": 20.3,
+     "80-100 %": 7.5
+    }
+   },
+   "Bornholm": {
+    "0-20 %": {
+     "km2": 0.1,
+     "pct_of_land": 0.0
+    },
+    "20-40 %": {
+     "km2": 47.2,
+     "pct_of_land": 8.0
+    },
+    "40-60 %": {
+     "km2": 389.4,
+     "pct_of_land": 65.7
+    },
+    "60-80 %": {
+     "km2": 132.0,
+     "pct_of_land": 22.3
+    },
+    "80-100 %": {
+     "km2": 17.7,
+     "pct_of_land": 3.0
+    },
+    "not mapped": {
+     "km2": 6.1,
+     "pct_of_land": 1.0
+    },
+    "pct_of_mapped": {
+     "0-20 %": 0.0,
+     "20-40 %": 8.0,
+     "40-60 %": 66.4,
+     "60-80 %": 22.5,
+     "80-100 %": 3.0
+    }
+   },
+   "Denmark": {
+    "0-20 %": {
+     "km2": 27.3,
+     "pct_of_land": 0.1
+    },
+    "20-40 %": {
+     "km2": 1399.3,
+     "pct_of_land": 3.2
+    },
+    "40-60 %": {
+     "km2": 8181.4,
+     "pct_of_land": 18.9
+    },
+    "60-80 %": {
+     "km2": 20137.3,
+     "pct_of_land": 46.6
+    },
+    "80-100 %": {
+     "km2": 13111.6,
+     "pct_of_land": 30.3
+    },
+    "not mapped": {
+     "km2": 347.3,
+     "pct_of_land": 0.8
+    },
+    "pct_of_mapped": {
+     "0-20 %": 0.1,
+     "20-40 %": 3.3,
+     "40-60 %": 19.1,
+     "60-80 %": 47.0,
+     "80-100 %": 30.6
+    }
+   }
+  }
+ },
+ "organic_nitrogen": {
+  "classes": {
+   "2": "0",
+   "3": "0-4",
+   "4": "4-6",
+   "5": "6-8",
+   "6": "8-10"
+  },
+  "note": "Interval as given in the Landbrugsstyrelsen layer; the file does not state a unit. 0 = category 1 (value 0)",
+  "by_region": {
+   "West Jutland": {
+    "0": {
+     "km2": 477.1,
+     "pct_of_land": 5.3
+    },
+    "0-4": {
+     "km2": 287.6,
+     "pct_of_land": 3.2
+    },
+    "4-6": {
+     "km2": 3642.4,
+     "pct_of_land": 40.7
+    },
+    "6-8": {
+     "km2": 3030.4,
+     "pct_of_land": 33.8
+    },
+    "8-10": {
+     "km2": 1443.2,
+     "pct_of_land": 16.1
+    },
+    "not mapped": {
+     "km2": 79.4,
+     "pct_of_land": 0.9
+    }
+   },
+   "East Jutland": {
+    "0": {
+     "km2": 1063.0,
+     "pct_of_land": 8.3
+    },
+    "0-4": {
+     "km2": 649.2,
+     "pct_of_land": 5.1
+    },
+    "4-6": {
+     "km2": 6609.9,
+     "pct_of_land": 51.8
+    },
+    "6-8": {
+     "km2": 3005.2,
+     "pct_of_land": 23.6
+    },
+    "8-10": {
+     "km2": 1327.5,
+     "pct_of_land": 10.4
+    },
+    "not mapped": {
+     "km2": 106.0,
+     "pct_of_land": 0.8
+    }
+   },
+   "North Jutland": {
+    "0": {
+     "km2": 525.6,
+     "pct_of_land": 6.6
+    },
+    "0-4": {
+     "km2": 132.6,
+     "pct_of_land": 1.7
+    },
+    "4-6": {
+     "km2": 2711.2,
+     "pct_of_land": 34.1
+    },
+    "6-8": {
+     "km2": 2873.1,
+     "pct_of_land": 36.1
+    },
+    "8-10": {
+     "km2": 1613.5,
+     "pct_of_land": 20.3
+    },
+    "not mapped": {
+     "km2": 92.5,
+     "pct_of_land": 1.2
+    }
+   },
+   "Funen": {
+    "0": {
+     "km2": 333.5,
+     "pct_of_land": 9.5
+    },
+    "0-4": {
+     "km2": 212.8,
+     "pct_of_land": 6.1
+    },
+    "4-6": {
+     "km2": 2083.3,
+     "pct_of_land": 59.5
+    },
+    "6-8": {
+     "km2": 513.5,
+     "pct_of_land": 14.7
+    },
+    "8-10": {
+     "km2": 297.7,
+     "pct_of_land": 8.5
+    },
+    "not mapped": {
+     "km2": 62.8,
+     "pct_of_land": 1.8
+    }
+   },
+   "Zealand": {
+    "0": {
+     "km2": 1198.6,
+     "pct_of_land": 15.7
+    },
+    "0-4": {
+     "km2": 100.5,
+     "pct_of_land": 1.3
+    },
+    "4-6": {
+     "km2": 3863.1,
+     "pct_of_land": 50.7
+    },
+    "6-8": {
+     "km2": 1386.9,
+     "pct_of_land": 18.2
+    },
+    "8-10": {
+     "km2": 940.7,
+     "pct_of_land": 12.3
+    },
+    "not mapped": {
+     "km2": 134.9,
+     "pct_of_land": 1.8
+    }
+   },
+   "Lolland-Falster": {
+    "0": {
+     "km2": 104.7,
+     "pct_of_land": 5.8
+    },
+    "0-4": {
+     "km2": 22.9,
+     "pct_of_land": 1.3
+    },
+    "4-6": {
+     "km2": 1198.8,
+     "pct_of_land": 66.1
+    },
+    "6-8": {
+     "km2": 292.6,
+     "pct_of_land": 16.1
+    },
+    "8-10": {
+     "km2": 157.8,
+     "pct_of_land": 8.7
+    },
+    "not mapped": {
+     "km2": 36.9,
+     "pct_of_land": 2.0
+    }
+   },
+   "Bornholm": {
+    "0": {
+     "km2": 33.3,
+     "pct_of_land": 5.6
+    },
+    "0-4": {
+     "km2": 5.5,
+     "pct_of_land": 0.9
+    },
+    "4-6": {
+     "km2": 364.5,
+     "pct_of_land": 61.5
+    },
+    "6-8": {
+     "km2": 147.6,
+     "pct_of_land": 24.9
+    },
+    "8-10": {
+     "km2": 33.0,
+     "pct_of_land": 5.6
+    },
+    "not mapped": {
+     "km2": 8.6,
+     "pct_of_land": 1.5
+    }
+   },
+   "Denmark": {
+    "0": {
+     "km2": 3735.8,
+     "pct_of_land": 8.6
+    },
+    "0-4": {
+     "km2": 1411.1,
+     "pct_of_land": 3.3
+    },
+    "4-6": {
+     "km2": 20473.3,
+     "pct_of_land": 47.4
+    },
+    "6-8": {
+     "km2": 11249.4,
+     "pct_of_land": 26.0
+    },
+    "8-10": {
+     "km2": 5813.4,
+     "pct_of_land": 13.5
+    },
+    "not mapped": {
+     "km2": 521.2,
+     "pct_of_land": 1.2
+    }
+   }
+  }
+ },
+ "sightings": {
+  "definition": "records from GBIF, country DK, with coordinates, license CC0 or CC BY, coordinate uncertainty <= 2 km. 'On land' = inside a municipality polygon.",
+  "squares": {
+   "land_squares_any_land": 639,
+   "land_squares_at_least_10_km2_land": 561,
+   "land_squares_at_least_50_km2_land": 427
+  },
+  "groups": {
+   "ants": {
+    "records_downloaded": 4085,
+    "records_on_land": 4027,
+    "records_on_land_or_within_1km": 4085,
+    "records_outside_land": 58,
+    "year_min": 1870,
+    "year_max": 2026,
+    "year_median": 2014,
+    "records_without_year": 70,
+    "pct_records_since_2000": 56.0,
+    "records_per_100_km2_land": 9.32,
+    "distinct_locations_on_land": 1822,
+    "distinct_locations_per_100_km2_land": 4.22,
+    "records_in_latest_year": 31,
+    "pct_of_dated_records_in_latest_year": 0.8,
+    "pct_10km_squares_with_record": {
+     "any_land": 67.4,
+     "at_least_10_km2_land": 73.4,
+     "at_least_50_km2_land": 77.0
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 68.2,
+     "at_least_10_km2_land": 74.2,
+     "at_least_50_km2_land": 77.8
+    },
+    "distinct_taxa_names": 79,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 4174,
+    "pct_of_gbif_dk_records_kept": 97.9,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 1198.8,
+     "pct_of_land": 2.8,
+     "n_separate_areas": 125,
+     "largest_area_km2": 348.6,
+     "largest_area_centre_lon_lat": [
+      11.167,
+      54.82
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Lolland",
+       "km2": 348.6
+      }
+     ],
+     "largest_area_region_split": {
+      "Lolland-Falster": 348.6
+     },
+     "farthest_land_point_to_nearest_record_km": 26.3,
+     "farthest_land_point_lon_lat": [
+      11.696,
+      56.199
+     ],
+     "farthest_land_point_municipality": "Halsnæs"
+    }
+   },
+   "beetles": {
+    "records_downloaded": 23709,
+    "records_on_land": 23178,
+    "records_on_land_or_within_1km": 23708,
+    "records_outside_land": 531,
+    "year_min": 1902,
+    "year_max": 2026,
+    "year_median": 1986,
+    "records_without_year": 0,
+    "pct_records_since_2000": 45.0,
+    "records_per_100_km2_land": 53.65,
+    "distinct_locations_on_land": 6583,
+    "distinct_locations_per_100_km2_land": 15.24,
+    "records_in_latest_year": 837,
+    "pct_of_dated_records_in_latest_year": 3.5,
+    "pct_10km_squares_with_record": {
+     "any_land": 87.2,
+     "at_least_10_km2_land": 91.6,
+     "at_least_50_km2_land": 93.0
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 87.9,
+     "at_least_10_km2_land": 92.2,
+     "at_least_50_km2_land": 93.0
+    },
+    "distinct_taxa_names": 341,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 23812,
+    "pct_of_gbif_dk_records_kept": 99.6,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 137.2,
+     "pct_of_land": 0.3,
+     "n_separate_areas": 16,
+     "largest_area_km2": 88.7,
+     "largest_area_centre_lon_lat": [
+      9.135,
+      55.106
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Tønder",
+       "km2": 67.3
+      },
+      {
+       "name": "Aabenraa",
+       "km2": 21.4
+      }
+     ],
+     "largest_area_region_split": {
+      "West Jutland": 67.3,
+      "East Jutland": 21.4
+     },
+     "farthest_land_point_to_nearest_record_km": 25.4,
+     "farthest_land_point_lon_lat": [
+      11.696,
+      56.199
+     ],
+     "farthest_land_point_municipality": "Halsnæs"
+    }
+   },
+   "centipedes": {
+    "records_downloaded": 142,
+    "records_on_land": 136,
+    "records_on_land_or_within_1km": 142,
+    "records_outside_land": 6,
+    "year_min": 1992,
+    "year_max": 2026,
+    "year_median": 2016,
+    "records_without_year": 1,
+    "pct_records_since_2000": 97.9,
+    "records_per_100_km2_land": 0.31,
+    "distinct_locations_on_land": 99,
+    "distinct_locations_per_100_km2_land": 0.23,
+    "records_in_latest_year": 4,
+    "pct_of_dated_records_in_latest_year": 2.8,
+    "pct_10km_squares_with_record": {
+     "any_land": 10.3,
+     "at_least_10_km2_land": 11.8,
+     "at_least_50_km2_land": 13.6
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 10.6,
+     "at_least_10_km2_land": 12.1,
+     "at_least_50_km2_land": 13.8
+    },
+    "distinct_taxa_names": 21,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 162,
+    "pct_of_gbif_dk_records_kept": 87.7,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 30657.8,
+     "pct_of_land": 71.0,
+     "n_separate_areas": 316,
+     "largest_area_km2": 17837.0,
+     "largest_area_centre_lon_lat": [
+      9.14,
+      55.946
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Ringkøbing-Skjern",
+       "km2": 1436.8
+      },
+      {
+       "name": "Varde",
+       "km2": 1236.8
+      },
+      {
+       "name": "Tønder",
+       "km2": 1186.0
+      },
+      {
+       "name": "Herning",
+       "km2": 1094.5
+      }
+     ],
+     "largest_area_region_split": {
+      "West Jutland": 8304.3,
+      "East Jutland": 7317.3,
+      "North Jutland": 2215.5
+     },
+     "farthest_land_point_to_nearest_record_km": 76.6,
+     "farthest_land_point_lon_lat": [
+      8.076,
+      55.562
+     ],
+     "farthest_land_point_municipality": "Varde"
+    }
+   },
+   "earthworms": {
+    "records_downloaded": 256,
+    "records_on_land": 256,
+    "records_on_land_or_within_1km": 256,
+    "records_outside_land": 0,
+    "year_min": 1873,
+    "year_max": 2026,
+    "year_median": 2015,
+    "records_without_year": 65,
+    "pct_records_since_2000": 97.4,
+    "records_per_100_km2_land": 0.59,
+    "distinct_locations_on_land": 132,
+    "distinct_locations_per_100_km2_land": 0.31,
+    "records_in_latest_year": 1,
+    "pct_of_dated_records_in_latest_year": 0.5,
+    "pct_10km_squares_with_record": {
+     "any_land": 8.5,
+     "at_least_10_km2_land": 9.4,
+     "at_least_50_km2_land": 11.5
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 8.5,
+     "at_least_10_km2_land": 9.4,
+     "at_least_50_km2_land": 11.5
+    },
+    "distinct_taxa_names": 25,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 1918,
+    "pct_of_gbif_dk_records_kept": 13.3,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 32055.1,
+     "pct_of_land": 74.2,
+     "n_separate_areas": 345,
+     "largest_area_km2": 15799.8,
+     "largest_area_centre_lon_lat": [
+      9.075,
+      55.977
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Ringkøbing-Skjern",
+       "km2": 1439.8
+      },
+      {
+       "name": "Tønder",
+       "km2": 1186.0
+      },
+      {
+       "name": "Varde",
+       "km2": 1143.7
+      },
+      {
+       "name": "Herning",
+       "km2": 1028.2
+      }
+     ],
+     "largest_area_region_split": {
+      "West Jutland": 7816.5,
+      "East Jutland": 5613.4,
+      "North Jutland": 2369.9
+     },
+     "farthest_land_point_to_nearest_record_km": 85.6,
+     "farthest_land_point_lon_lat": [
+      10.626,
+      57.75
+     ],
+     "farthest_land_point_municipality": "Frederikshavn"
+    }
+   },
+   "millipedes": {
+    "records_downloaded": 566,
+    "records_on_land": 558,
+    "records_on_land_or_within_1km": 566,
+    "records_outside_land": 8,
+    "year_min": 1969,
+    "year_max": 2026,
+    "year_median": 2023,
+    "records_without_year": 4,
+    "pct_records_since_2000": 97.5,
+    "records_per_100_km2_land": 1.29,
+    "distinct_locations_on_land": 487,
+    "distinct_locations_per_100_km2_land": 1.13,
+    "records_in_latest_year": 57,
+    "pct_of_dated_records_in_latest_year": 10.1,
+    "pct_10km_squares_with_record": {
+     "any_land": 27.1,
+     "at_least_10_km2_land": 30.3,
+     "at_least_50_km2_land": 33.7
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 27.9,
+     "at_least_10_km2_land": 31.2,
+     "at_least_50_km2_land": 34.4
+    },
+    "distinct_taxa_names": 49,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 758,
+    "pct_of_gbif_dk_records_kept": 74.7,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 17060.1,
+     "pct_of_land": 39.5,
+     "n_separate_areas": 288,
+     "largest_area_km2": 8346.1,
+     "largest_area_centre_lon_lat": [
+      8.805,
+      55.822
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Ringkøbing-Skjern",
+       "km2": 1330.0
+      },
+      {
+       "name": "Herning",
+       "km2": 1262.6
+      },
+      {
+       "name": "Tønder",
+       "km2": 955.6
+      },
+      {
+       "name": "Varde",
+       "km2": 652.3
+      }
+     ],
+     "largest_area_region_split": {
+      "West Jutland": 6383.8,
+      "East Jutland": 1962.3
+     },
+     "farthest_land_point_to_nearest_record_km": 59.6,
+     "farthest_land_point_lon_lat": [
+      11.659,
+      56.736
+     ],
+     "farthest_land_point_municipality": "Norddjurs"
+    }
+   },
+   "mites": {
+    "records_downloaded": 1492,
+    "records_on_land": 1473,
+    "records_on_land_or_within_1km": 1492,
+    "records_outside_land": 19,
+    "year_min": 1883,
+    "year_max": 2026,
+    "year_median": 2014,
+    "records_without_year": 47,
+    "pct_records_since_2000": 87.8,
+    "records_per_100_km2_land": 3.41,
+    "distinct_locations_on_land": 349,
+    "distinct_locations_per_100_km2_land": 0.81,
+    "records_in_latest_year": 77,
+    "pct_of_dated_records_in_latest_year": 5.3,
+    "pct_10km_squares_with_record": {
+     "any_land": 18.0,
+     "at_least_10_km2_land": 20.0,
+     "at_least_50_km2_land": 21.3
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 18.5,
+     "at_least_10_km2_land": 20.3,
+     "at_least_50_km2_land": 21.3
+    },
+    "distinct_taxa_names": 260,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 1622,
+    "pct_of_gbif_dk_records_kept": 92.0,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 26494.5,
+     "pct_of_land": 61.3,
+     "n_separate_areas": 282,
+     "largest_area_km2": 16730.4,
+     "largest_area_centre_lon_lat": [
+      9.161,
+      56.038
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Ringkøbing-Skjern",
+       "km2": 1491.6
+      },
+      {
+       "name": "Herning",
+       "km2": 1315.1
+      },
+      {
+       "name": "Varde",
+       "km2": 1126.4
+      },
+      {
+       "name": "Tønder",
+       "km2": 1111.7
+      }
+     ],
+     "largest_area_region_split": {
+      "West Jutland": 7915.9,
+      "East Jutland": 6874.4,
+      "North Jutland": 1940.0
+     },
+     "farthest_land_point_to_nearest_record_km": 71.5,
+     "farthest_land_point_lon_lat": [
+      8.125,
+      56.292
+     ],
+     "farthest_land_point_municipality": "Holstebro"
+    }
+   },
+   "potworms": {
+    "records_downloaded": 1824,
+    "records_on_land": 1779,
+    "records_on_land_or_within_1km": 1824,
+    "records_outside_land": 45,
+    "year_min": 1983,
+    "year_max": 2023,
+    "year_median": 2014,
+    "records_without_year": 23,
+    "pct_records_since_2000": 98.1,
+    "records_per_100_km2_land": 4.12,
+    "distinct_locations_on_land": 60,
+    "distinct_locations_per_100_km2_land": 0.14,
+    "records_in_latest_year": 15,
+    "pct_of_dated_records_in_latest_year": 0.8,
+    "pct_10km_squares_with_record": {
+     "any_land": 3.3,
+     "at_least_10_km2_land": 3.7,
+     "at_least_50_km2_land": 4.0
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 3.9,
+     "at_least_10_km2_land": 4.5,
+     "at_least_50_km2_land": 4.2
+    },
+    "distinct_taxa_names": 81,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 3737,
+    "pct_of_gbif_dk_records_kept": 48.8,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 38565.6,
+     "pct_of_land": 89.3,
+     "n_separate_areas": 319,
+     "largest_area_km2": 21347.6,
+     "largest_area_centre_lon_lat": [
+      9.249,
+      55.989
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Ringkøbing-Skjern",
+       "km2": 1461.2
+      },
+      {
+       "name": "Herning",
+       "km2": 1322.6
+      },
+      {
+       "name": "Varde",
+       "km2": 1236.0
+      },
+      {
+       "name": "Tønder",
+       "km2": 1186.0
+      }
+     ],
+     "largest_area_region_split": {
+      "West Jutland": 8517.3,
+      "East Jutland": 10730.1,
+      "North Jutland": 2100.1
+     },
+     "farthest_land_point_to_nearest_record_km": 189.5,
+     "farthest_land_point_lon_lat": [
+      15.193,
+      55.321
+     ],
+     "farthest_land_point_municipality": "Christiansø"
+    }
+   },
+   "springtails": {
+    "records_downloaded": 560,
+    "records_on_land": 548,
+    "records_on_land_or_within_1km": 560,
+    "records_outside_land": 12,
+    "year_min": 1997,
+    "year_max": 2026,
+    "year_median": 2022,
+    "records_without_year": 4,
+    "pct_records_since_2000": 99.8,
+    "records_per_100_km2_land": 1.27,
+    "distinct_locations_on_land": 218,
+    "distinct_locations_per_100_km2_land": 0.5,
+    "records_in_latest_year": 12,
+    "pct_of_dated_records_in_latest_year": 2.2,
+    "pct_10km_squares_with_record": {
+     "any_land": 9.9,
+     "at_least_10_km2_land": 11.2,
+     "at_least_50_km2_land": 12.9
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 10.0,
+     "at_least_10_km2_land": 11.4,
+     "at_least_50_km2_land": 12.9
+    },
+    "distinct_taxa_names": 89,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 2154,
+    "pct_of_gbif_dk_records_kept": 26.0,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 31061.5,
+     "pct_of_land": 71.9,
+     "n_separate_areas": 296,
+     "largest_area_km2": 18139.7,
+     "largest_area_centre_lon_lat": [
+      9.254,
+      55.974
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Ringkøbing-Skjern",
+       "km2": 1420.6
+      },
+      {
+       "name": "Herning",
+       "km2": 1322.6
+      },
+      {
+       "name": "Tønder",
+       "km2": 1186.0
+      },
+      {
+       "name": "Viborg",
+       "km2": 875.8
+      }
+     ],
+     "largest_area_region_split": {
+      "West Jutland": 7422.1,
+      "East Jutland": 8908.4,
+      "North Jutland": 1809.2
+     },
+     "farthest_land_point_to_nearest_record_km": 72.1,
+     "farthest_land_point_lon_lat": [
+      11.659,
+      56.736
+     ],
+     "farthest_land_point_municipality": "Norddjurs"
+    }
+   },
+   "woodlice": {
+    "records_downloaded": 1091,
+    "records_on_land": 1059,
+    "records_on_land_or_within_1km": 1091,
+    "records_outside_land": 32,
+    "year_min": 1905,
+    "year_max": 2026,
+    "year_median": 2022,
+    "records_without_year": 40,
+    "pct_records_since_2000": 93.6,
+    "records_per_100_km2_land": 2.45,
+    "distinct_locations_on_land": 781,
+    "distinct_locations_per_100_km2_land": 1.81,
+    "records_in_latest_year": 85,
+    "pct_of_dated_records_in_latest_year": 8.1,
+    "pct_10km_squares_with_record": {
+     "any_land": 36.0,
+     "at_least_10_km2_land": 39.4,
+     "at_least_50_km2_land": 42.2
+    },
+    "pct_10km_squares_with_record_if_records_within_1km_of_land_count": {
+     "any_land": 36.3,
+     "at_least_10_km2_land": 39.6,
+     "at_least_50_km2_land": 42.4
+    },
+    "distinct_taxa_names": 18,
+    "records_in_gbif_for_dk_with_coordinates_all_licences": 1242,
+    "pct_of_gbif_dk_records_kept": 87.8,
+    "no_record_within_10km": {
+     "land_km2_more_than_10km_from_a_record": 13101.5,
+     "pct_of_land": 30.3,
+     "n_separate_areas": 217,
+     "largest_area_km2": 7639.9,
+     "largest_area_centre_lon_lat": [
+      8.989,
+      55.794
+     ],
+     "largest_area_municipalities": [
+      {
+       "name": "Tønder",
+       "km2": 998.7
+      },
+      {
+       "name": "Ringkøbing-Skjern",
+       "km2": 735.5
+      },
+      {
+       "name": "Herning",
+       "km2": 713.6
+      },
+      {
+       "name": "Varde",
+       "km2": 633.5
+      }
+     ],
+     "largest_area_region_split": {
+      "West Jutland": 5257.2,
+      "East Jutland": 2382.7
+     },
+     "farthest_land_point_to_nearest_record_km": 42.5,
+     "farthest_land_point_lon_lat": [
+      11.196,
+      57.29
+     ],
+     "farthest_land_point_municipality": "Læsø"
+    }
+   }
+  },
+  "earthworm_headline": {
+   "pct_10km_land_squares_with_at_least_one_record": 11.5,
+   "land_squares_counted": 427,
+   "square_definition": "10 x 10 km squares with at least 50 km2 of land (mostly land); counting every square that touches land gives 8.5 % of 639 squares",
+   "records_per_100_km2_land": 0.59,
+   "distinct_locations_per_100_km2_land": 0.31,
+   "largest_land_area_with_no_record_within_10km_km2": 15799.8,
+   "land_with_no_record_within_10km_pct_of_land": 74.2
+  },
+  "sightings_note": "Group list is whatever is in raw/gbif at run time. Counts are record rows (one row per GBIF occurrence), not individuals. 10 km squares are aligned to multiples of 10 km in EPSG:25832."
+ },
+ "ph_check": {
+  "method": "SoilGrids 2.0 pH(H2O) at 250 m, depth-weighted mean of 0-5, 5-15 and 15-30 cm (the 0-30 cm plough layer), and the 0-5 cm layer. 'cropland' = ESA WorldCover class 40 at 100 m, each 100 m cell takes the value of the 250 m SoilGrids cell it sits in. 'all land' = every 250 m cell whose centre is inside a municipality.",
+  "by_region": {
+   "West Jutland": {
+    "cropland_ph_0_30": {
+     "n_cells": 389907,
+     "mean": 5.68,
+     "sd": 0.21,
+     "p10": 5.44,
+     "median": 5.66,
+     "p90": 5.95
+    },
+    "all_land_ph_0_30": {
+     "n_cells": 136953,
+     "mean": 5.65,
+     "sd": 0.26,
+     "p10": 5.35,
+     "median": 5.64,
+     "p90": 5.97
+    },
+    "cropland_ph_0_5": {
+     "n_cells": 389907,
+     "mean": 5.55,
+     "sd": 0.22,
+     "p10": 5.3,
+     "median": 5.51,
+     "p90": 5.85
+    },
+    "all_land_ph_0_5": {
+     "n_cells": 136953,
+     "mean": 5.52,
+     "sd": 0.28,
+     "p10": 5.21,
+     "median": 5.5,
+     "p90": 5.88
+    },
+    "cropland_km2": 3917.5
+   },
+   "East Jutland": {
+    "cropland_ph_0_30": {
+     "n_cells": 580743,
+     "mean": 6.0,
+     "sd": 0.24,
+     "p10": 5.67,
+     "median": 6.03,
+     "p90": 6.27
+    },
+    "all_land_ph_0_30": {
+     "n_cells": 188642,
+     "mean": 5.9,
+     "sd": 0.31,
+     "p10": 5.45,
+     "median": 5.95,
+     "p90": 6.24
+    },
+    "cropland_ph_0_5": {
+     "n_cells": 580743,
+     "mean": 5.89,
+     "sd": 0.25,
+     "p10": 5.54,
+     "median": 5.93,
+     "p90": 6.18
+    },
+    "all_land_ph_0_5": {
+     "n_cells": 188642,
+     "mean": 5.79,
+     "sd": 0.32,
+     "p10": 5.33,
+     "median": 5.85,
+     "p90": 6.14
+    },
+    "cropland_km2": 5905.3
+   },
+   "North Jutland": {
+    "cropland_ph_0_30": {
+     "n_cells": 341119,
+     "mean": 5.93,
+     "sd": 0.17,
+     "p10": 5.73,
+     "median": 5.93,
+     "p90": 6.12
+    },
+    "all_land_ph_0_30": {
+     "n_cells": 118981,
+     "mean": 5.83,
+     "sd": 0.27,
+     "p10": 5.48,
+     "median": 5.88,
+     "p90": 6.1
+    },
+    "cropland_ph_0_5": {
+     "n_cells": 341119,
+     "mean": 5.82,
+     "sd": 0.17,
+     "p10": 5.62,
+     "median": 5.81,
+     "p90": 6.01
+    },
+    "all_land_ph_0_5": {
+     "n_cells": 118981,
+     "mean": 5.73,
+     "sd": 0.27,
+     "p10": 5.38,
+     "median": 5.78,
+     "p90": 6.0
+    },
+    "cropland_km2": 3454.6
+   },
+   "Funen": {
+    "cropland_ph_0_30": {
+     "n_cells": 169882,
+     "mean": 6.47,
+     "sd": 0.2,
+     "p10": 6.22,
+     "median": 6.49,
+     "p90": 6.72
+    },
+    "all_land_ph_0_30": {
+     "n_cells": 50157,
+     "mean": 6.38,
+     "sd": 0.29,
+     "p10": 5.99,
+     "median": 6.43,
+     "p90": 6.7
+    },
+    "cropland_ph_0_5": {
+     "n_cells": 169882,
+     "mean": 6.29,
+     "sd": 0.18,
+     "p10": 6.06,
+     "median": 6.3,
+     "p90": 6.5
+    },
+    "all_land_ph_0_5": {
+     "n_cells": 50157,
+     "mean": 6.21,
+     "sd": 0.27,
+     "p10": 5.84,
+     "median": 6.27,
+     "p90": 6.48
+    },
+    "cropland_km2": 1760.1
+   },
+   "Zealand": {
+    "cropland_ph_0_30": {
+     "n_cells": 311496,
+     "mean": 6.64,
+     "sd": 0.19,
+     "p10": 6.4,
+     "median": 6.68,
+     "p90": 6.84
+    },
+    "all_land_ph_0_30": {
+     "n_cells": 103221,
+     "mean": 6.48,
+     "sd": 0.36,
+     "p10": 5.89,
+     "median": 6.6,
+     "p90": 6.82
+    },
+    "cropland_ph_0_5": {
+     "n_cells": 311496,
+     "mean": 6.42,
+     "sd": 0.18,
+     "p10": 6.21,
+     "median": 6.46,
+     "p90": 6.6
+    },
+    "all_land_ph_0_5": {
+     "n_cells": 103221,
+     "mean": 6.28,
+     "sd": 0.33,
+     "p10": 5.74,
+     "median": 6.39,
+     "p90": 6.6
+    },
+    "cropland_km2": 3195.8
+   },
+   "Lolland-Falster": {
+    "cropland_ph_0_30": {
+     "n_cells": 118766,
+     "mean": 6.85,
+     "sd": 0.19,
+     "p10": 6.62,
+     "median": 6.87,
+     "p90": 7.06
+    },
+    "all_land_ph_0_30": {
+     "n_cells": 26410,
+     "mean": 6.75,
+     "sd": 0.31,
+     "p10": 6.26,
+     "median": 6.84,
+     "p90": 7.04
+    },
+    "cropland_ph_0_5": {
+     "n_cells": 118766,
+     "mean": 6.61,
+     "sd": 0.18,
+     "p10": 6.4,
+     "median": 6.6,
+     "p90": 6.82
+    },
+    "all_land_ph_0_5": {
+     "n_cells": 26410,
+     "mean": 6.53,
+     "sd": 0.28,
+     "p10": 6.1,
+     "median": 6.59,
+     "p90": 6.8
+    },
+    "cropland_km2": 1224.2
+   },
+   "Bornholm": {
+    "cropland_ph_0_30": {
+     "n_cells": 29177,
+     "mean": 6.43,
+     "sd": 0.17,
+     "p10": 6.24,
+     "median": 6.46,
+     "p90": 6.61
+    },
+    "all_land_ph_0_30": {
+     "n_cells": 8939,
+     "mean": 6.27,
+     "sd": 0.33,
+     "p10": 5.71,
+     "median": 6.39,
+     "p90": 6.57
+    },
+    "cropland_ph_0_5": {
+     "n_cells": 29177,
+     "mean": 6.28,
+     "sd": 0.14,
+     "p10": 6.13,
+     "median": 6.3,
+     "p90": 6.41
+    },
+    "all_land_ph_0_5": {
+     "n_cells": 8939,
+     "mean": 6.13,
+     "sd": 0.3,
+     "p10": 5.63,
+     "median": 6.24,
+     "p90": 6.4
+    },
+    "cropland_km2": 294.8
+   }
+  },
+  "jutland_vs_islands": {
+   "jutland_regions": [
+    "West Jutland",
+    "East Jutland",
+    "North Jutland"
+   ],
+   "island_regions": [
+    "Funen",
+    "Zealand",
+    "Lolland-Falster",
+    "Bornholm"
+   ],
+   "cropland_mean_ph_0_30": {
+    "jutland": 5.88,
+    "islands": 6.63,
+    "difference_islands_minus_jutland": 0.74
+   },
+   "all_land_mean_ph_0_30": {
+    "jutland": 5.8,
+    "islands": 6.48,
+    "difference_islands_minus_jutland": 0.67
+   },
+   "pct_of_jutland_cropland_below_island_cropland_mean": 99.9,
+   "pct_of_jutland_cropland_below_island_cropland_median": 100.0,
+   "pct_of_island_cropland_below_jutland_cropland_mean": 0.6
+  },
+  "ordering_cropland_mean_ph_0_30_low_to_high": [
+   "West Jutland",
+   "North Jutland",
+   "East Jutland",
+   "Bornholm",
+   "Funen",
+   "Zealand",
+   "Lolland-Falster"
+  ],
+  "west_vs_east_jutland_cropland_diff": 0.32
+ },
+ "region_sensitivity": {
+  "municipalities_near_the_line": [
+   "Lemvig",
+   "Skive",
+   "Viborg",
+   "Silkeborg",
+   "Ikast-Brande",
+   "Billund",
+   "Vejen",
+   "Vejle",
+   "Kolding",
+   "Haderslev",
+   "Aabenraa"
+  ],
+  "near_the_line_land_km2": 9011.5,
+  "sets": {
+   "West Jutland, all (as defined)": {
+    "municipalities": [
+     "Esbjerg",
+     "Fanø",
+     "Varde",
+     "Vejen",
+     "Billund",
+     "Ringkøbing-Skjern",
+     "Herning",
+     "Holstebro",
+     "Ikast-Brande",
+     "Tønder"
+    ],
+    "sand_pct": 89.6,
+    "clay_pct": 5.1,
+    "cropland_mean_ph_0_30": 5.68
+   },
+   "West Jutland, core (without municipalities near the line)": {
+    "municipalities": [
+     "Esbjerg",
+     "Fanø",
+     "Varde",
+     "Ringkøbing-Skjern",
+     "Herning",
+     "Holstebro",
+     "Tønder"
+    ],
+    "sand_pct": 88.8,
+    "clay_pct": 5.3,
+    "cropland_mean_ph_0_30": 5.72
+   },
+   "East Jutland, all (as defined)": {
+    "municipalities": [
+     "Lemvig",
+     "Struer",
+     "Skive",
+     "Viborg",
+     "Silkeborg",
+     "Skanderborg",
+     "Aarhus",
+     "Odder",
+     "Horsens",
+     "Hedensted",
+     "Vejle",
+     "Fredericia",
+     "Kolding",
+     "Haderslev",
+     "Aabenraa",
+     "Sønderborg",
+     "Favrskov",
+     "Randers",
+     "Norddjurs",
+     "Syddjurs"
+    ],
+    "sand_pct": 51.5,
+    "clay_pct": 43.5,
+    "cropland_mean_ph_0_30": 6.0
+   },
+   "East Jutland, core (without municipalities near the line)": {
+    "municipalities": [
+     "Struer",
+     "Skanderborg",
+     "Aarhus",
+     "Odder",
+     "Horsens",
+     "Hedensted",
+     "Fredericia",
+     "Sønderborg",
+     "Favrskov",
+     "Randers",
+     "Norddjurs",
+     "Syddjurs"
+    ],
+    "sand_pct": 36.0,
+    "clay_pct": 58.9,
+    "cropland_mean_ph_0_30": 6.13
+   }
+  }
+ },
+ "meta": {
+  "generated": "2026-10-30",
+  "script": "pipeline/findings.py",
+  "grid": "EPSG:25832, 25 m cells; land = cells whose centre is inside a municipality polygon (Eurostat GISCO LAU 2021)",
+  "land_km2": 43204.1,
+  "region_rule": "North Jutland = Region Nordjylland. West/East Jutland split by the Main Stationary Line (Hovedopholdslinjen): a municipality is West when its administrative centre lies west or south of the line, East otherwise. Samsø is counted with Zealand, Christiansø with Bornholm, Læsø with North Jutland.",
+  "region_caveat": "No line file was available. Eleven municipalities close to the line (see region_sensitivity) may straddle it; West Jutland barely changes without them but East Jutland's JB sand share falls from about 52 % to 36 %, so East Jutland's sand/clay split depends on where the line is drawn."
+ }
+}
